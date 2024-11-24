@@ -3212,6 +3212,50 @@
     "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-007.png"
   },
   {
+    "id": "pa-009",
+    "name": "Pikachu",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Pokemon",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-009.png"
+  },
+  {
+    "id": "pa-011",
+    "name": "Chansey",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Pokemon",
+    "health": 120,
+    "stage": "Basic",
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-011.png"
+  },
+  {
+    "id": "pa-012",
+    "name": "Meowth",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Pokemon",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-012.png"
+  },
+  {
+    "id": "pa-013",
+    "name": "Butterfree",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Pokemon",
+    "health": 120,
+    "stage": "Stage 2",
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-013.png"
+  },
+  {
     "id": "pa-014",
     "name": "Lapras ex",
     "rarity": "Promo",
@@ -3221,6 +3265,28 @@
     "stage": "Basic",
     "craftingCost": null,
     "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-014.png"
+  },
+  {
+    "id": "pa-015",
+    "name": "Pikachu",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Pokemon",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-015.png"
+  },
+  {
+    "id": "pa-016",
+    "name": "Clefairy",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Pokemon",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-016.png"
   },
   {
     "id": "pa-017",
