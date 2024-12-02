@@ -3309,5 +3309,60 @@
     "stage": "Basic",
     "craftingCost": null,
     "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-017.png"
+  },
+  {
+    "id": "pa-018",
+    "name": "Venusaur",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Pokemon",
+    "health": 160,
+    "stage": "Stage 2",
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-018.png"
+  },
+  {
+    "id": "pa-019",
+    "name": "Greninja",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Pokemon",
+    "health": 120,
+    "stage": "Stage 2",
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-019.png"
+  },
+  {
+    "id": "pa-020",
+    "name": "Haunter",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Pokemon",
+    "health": 70,
+    "stage": "Stage 1",
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-020.png"
+  },
+  {
+    "id": "pa-021",
+    "name": "Onix",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Pokemon",
+    "health": 110,
+    "stage": "Basic",
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-022.png"
+  },
+  {
+    "id": "pa-022",
+    "name": "Jigglypuff",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Pokemon",
+    "health": 50,
+    "stage": "Basic",
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-022.png"
   }
 ]
