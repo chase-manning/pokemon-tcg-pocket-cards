@@ -3234,6 +3234,17 @@
     "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-009.png"
   },
   {
+    "id": "pa-010",
+    "name": "Mewtwo",
+    "rarity": "Promo",
+    "pack": "Promo",
+    "type": "Pokemon",
+    "health": 120,
+    "stage": "Basic",
+    "craftingCost": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/pa-010.png"
+  },
+  {
     "id": "pa-011",
     "name": "Chansey",
     "rarity": "Promo",
