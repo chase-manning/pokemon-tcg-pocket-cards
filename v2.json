@@ -2493,6 +2493,15 @@
     "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/a1a-062.png"
   },
   {
+    "id": "a1a-063",
+    "name": "Old Amber",
+    "rarity": "Common",
+    "pack": "Mythical Island",
+    "type": "Item",
+    "health": null,
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/a1a-063.jpg"
+  },
+  {
     "id": "a1-227",
     "name": "Bulbasaur",
     "rarity": "Full Art",
