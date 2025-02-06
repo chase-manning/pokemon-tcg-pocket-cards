@@ -2267,7 +2267,7 @@
     "id": "a1-284",
     "name": "Charizard ex",
     "rarity": "♕",
-    "pack": "Every pack",
+    "pack": "Every",
     "health": "180",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_284_EN.webp"
   },
@@ -2275,7 +2275,7 @@
     "id": "a1-285",
     "name": "Pikachu ex",
     "rarity": "♕",
-    "pack": "Every pack",
+    "pack": "Every",
     "health": "120",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_285_EN.webp"
   },
@@ -2283,7 +2283,7 @@
     "id": "a1-286",
     "name": "Mewtwo ex",
     "rarity": "♕",
-    "pack": "Every pack",
+    "pack": "Every",
     "health": "150",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_286_EN.webp"
   },
@@ -3299,7 +3299,7 @@
     "id": "a1a-086",
     "name": "Mew ex",
     "rarity": "♕",
-    "pack": "Every pack",
+    "pack": "Every",
     "health": "130",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_086_EN.webp"
   },
@@ -4947,7 +4947,7 @@
     "id": "a2-206",
     "name": "Palkia ex",
     "rarity": "♕",
-    "pack": "Every pack",
+    "pack": "Every",
     "health": "150",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_206_EN.webp"
   },
@@ -4955,7 +4955,7 @@
     "id": "a2-207",
     "name": "Dialga ex",
     "rarity": "♕",
-    "pack": "Every pack",
+    "pack": "Every",
     "health": "150",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_207_EN.webp"
   }
