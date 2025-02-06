@@ -1,6 +1,6 @@
 [
   {
-    "id": "a1-001",
+    "id": "A1-001",
     "name": "Bulbasaur",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -8,7 +8,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_001_EN.webp"
   },
   {
-    "id": "a1-002",
+    "id": "A1-002",
     "name": "Ivysaur",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -16,7 +16,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_002_EN.webp"
   },
   {
-    "id": "a1-003",
+    "id": "A1-003",
     "name": "Venusaur",
     "rarity": "◊◊◊",
     "pack": "Mewtwo",
@@ -24,7 +24,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_003_EN.webp"
   },
   {
-    "id": "a1-004",
+    "id": "A1-004",
     "name": "Venusaur ex",
     "rarity": "◊◊◊◊",
     "pack": "Mewtwo",
@@ -32,7 +32,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_004_EN.webp"
   },
   {
-    "id": "a1-005",
+    "id": "A1-005",
     "name": "Caterpie",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -40,7 +40,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_005_EN.webp"
   },
   {
-    "id": "a1-006",
+    "id": "A1-006",
     "name": "Metapod",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -48,7 +48,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_006_EN.webp"
   },
   {
-    "id": "a1-007",
+    "id": "A1-007",
     "name": "Butterfree",
     "rarity": "◊◊◊",
     "pack": "Pikachu",
@@ -56,7 +56,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_007_EN.webp"
   },
   {
-    "id": "a1-008",
+    "id": "A1-008",
     "name": "Weedle",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -64,7 +64,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_008_EN.webp"
   },
   {
-    "id": "a1-009",
+    "id": "A1-009",
     "name": "Kakuna",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -72,7 +72,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_009_EN.webp"
   },
   {
-    "id": "a1-010",
+    "id": "A1-010",
     "name": "Beedrill",
     "rarity": "◊◊◊",
     "pack": "Mewtwo",
@@ -80,7 +80,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_010_EN.webp"
   },
   {
-    "id": "a1-011",
+    "id": "A1-011",
     "name": "Oddish",
     "rarity": "◊",
     "pack": "Charizard",
@@ -88,7 +88,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_011_EN.webp"
   },
   {
-    "id": "a1-012",
+    "id": "A1-012",
     "name": "Gloom",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -96,7 +96,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_012_EN.webp"
   },
   {
-    "id": "a1-013",
+    "id": "A1-013",
     "name": "Vileplume",
     "rarity": "◊◊◊",
     "pack": "Charizard",
@@ -104,7 +104,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_013_EN.webp"
   },
   {
-    "id": "a1-014",
+    "id": "A1-014",
     "name": "Paras",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -112,7 +112,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_014_EN.webp"
   },
   {
-    "id": "a1-015",
+    "id": "A1-015",
     "name": "Parasect",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -120,7 +120,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_015_EN.webp"
   },
   {
-    "id": "a1-016",
+    "id": "A1-016",
     "name": "Venonat",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -128,7 +128,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_016_EN.webp"
   },
   {
-    "id": "a1-017",
+    "id": "A1-017",
     "name": "Venomoth",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -136,7 +136,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_017_EN.webp"
   },
   {
-    "id": "a1-018",
+    "id": "A1-018",
     "name": "Bellsprout",
     "rarity": "◊",
     "pack": "Charizard",
@@ -144,7 +144,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_018_EN.webp"
   },
   {
-    "id": "a1-019",
+    "id": "A1-019",
     "name": "Weepinbell",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -152,7 +152,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_019_EN.webp"
   },
   {
-    "id": "a1-020",
+    "id": "A1-020",
     "name": "Victreebel",
     "rarity": "◊◊◊",
     "pack": "Charizard",
@@ -160,7 +160,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_020_EN.webp"
   },
   {
-    "id": "a1-021",
+    "id": "A1-021",
     "name": "Exeggcute",
     "rarity": "◊",
     "pack": "Charizard",
@@ -168,7 +168,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_021_EN.webp"
   },
   {
-    "id": "a1-022",
+    "id": "A1-022",
     "name": "Exeggutor",
     "rarity": "◊◊◊",
     "pack": "Charizard",
@@ -176,7 +176,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_022_EN.webp"
   },
   {
-    "id": "a1-023",
+    "id": "A1-023",
     "name": "Exeggutor ex",
     "rarity": "◊◊◊◊",
     "pack": "Charizard",
@@ -184,7 +184,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_023_EN.webp"
   },
   {
-    "id": "a1-024",
+    "id": "A1-024",
     "name": "Tangela",
     "rarity": "◊",
     "pack": "Charizard",
@@ -192,7 +192,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_024_EN.webp"
   },
   {
-    "id": "a1-025",
+    "id": "A1-025",
     "name": "Scyther",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -200,7 +200,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_025_EN.webp"
   },
   {
-    "id": "a1-026",
+    "id": "A1-026",
     "name": "Pinsir",
     "rarity": "◊◊",
     "pack": "Every",
@@ -208,7 +208,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_026_EN.webp"
   },
   {
-    "id": "a1-027",
+    "id": "A1-027",
     "name": "Cottonee",
     "rarity": "◊",
     "pack": "Every",
@@ -216,7 +216,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_027_EN.webp"
   },
   {
-    "id": "a1-028",
+    "id": "A1-028",
     "name": "Whimsicott",
     "rarity": "◊◊",
     "pack": "Every",
@@ -224,7 +224,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_028_EN.webp"
   },
   {
-    "id": "a1-029",
+    "id": "A1-029",
     "name": "Petilil",
     "rarity": "◊",
     "pack": "Every",
@@ -232,7 +232,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_029_EN.webp"
   },
   {
-    "id": "a1-030",
+    "id": "A1-030",
     "name": "Lilligant",
     "rarity": "◊◊",
     "pack": "Every",
@@ -240,7 +240,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_030_EN.webp"
   },
   {
-    "id": "a1-031",
+    "id": "A1-031",
     "name": "Skiddo",
     "rarity": "◊",
     "pack": "Charizard",
@@ -248,7 +248,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_031_EN.webp"
   },
   {
-    "id": "a1-032",
+    "id": "A1-032",
     "name": "Gogoat",
     "rarity": "◊",
     "pack": "Charizard",
@@ -256,7 +256,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_032_EN.webp"
   },
   {
-    "id": "a1-033",
+    "id": "A1-033",
     "name": "Charmander",
     "rarity": "◊",
     "pack": "Charizard",
@@ -264,7 +264,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_033_EN.webp"
   },
   {
-    "id": "a1-034",
+    "id": "A1-034",
     "name": "Charmeleon",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -272,7 +272,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_034_EN.webp"
   },
   {
-    "id": "a1-035",
+    "id": "A1-035",
     "name": "Charizard",
     "rarity": "◊◊◊",
     "pack": "Charizard",
@@ -280,7 +280,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_035_EN.webp"
   },
   {
-    "id": "a1-036",
+    "id": "A1-036",
     "name": "Charizard ex",
     "rarity": "◊◊◊◊",
     "pack": "Charizard",
@@ -288,7 +288,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_036_EN.webp"
   },
   {
-    "id": "a1-037",
+    "id": "A1-037",
     "name": "Vulpix",
     "rarity": "◊",
     "pack": "Charizard",
@@ -296,7 +296,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_037_EN.webp"
   },
   {
-    "id": "a1-038",
+    "id": "A1-038",
     "name": "Ninetales",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -304,7 +304,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_038_EN.webp"
   },
   {
-    "id": "a1-039",
+    "id": "A1-039",
     "name": "Growlithe",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -312,7 +312,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_039_EN.webp"
   },
   {
-    "id": "a1-040",
+    "id": "A1-040",
     "name": "Arcanine",
     "rarity": "◊◊◊",
     "pack": "Pikachu",
@@ -320,7 +320,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_040_EN.webp"
   },
   {
-    "id": "a1-041",
+    "id": "A1-041",
     "name": "Arcanine ex",
     "rarity": "◊◊◊◊",
     "pack": "Pikachu",
@@ -328,7 +328,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_041_EN.webp"
   },
   {
-    "id": "a1-042",
+    "id": "A1-042",
     "name": "Ponyta",
     "rarity": "◊",
     "pack": "Every",
@@ -336,7 +336,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_042_EN.webp"
   },
   {
-    "id": "a1-043",
+    "id": "A1-043",
     "name": "Rapidash",
     "rarity": "◊◊",
     "pack": "Every",
@@ -344,7 +344,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_043_EN.webp"
   },
   {
-    "id": "a1-044",
+    "id": "A1-044",
     "name": "Magmar",
     "rarity": "◊",
     "pack": "Charizard",
@@ -352,7 +352,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_044_EN.webp"
   },
   {
-    "id": "a1-045",
+    "id": "A1-045",
     "name": "Flareon",
     "rarity": "◊◊◊",
     "pack": "Charizard",
@@ -360,7 +360,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_045_EN.webp"
   },
   {
-    "id": "a1-046",
+    "id": "A1-046",
     "name": "Moltres",
     "rarity": "◊◊◊",
     "pack": "Charizard",
@@ -368,7 +368,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_046_EN.webp"
   },
   {
-    "id": "a1-047",
+    "id": "A1-047",
     "name": "Moltres ex",
     "rarity": "◊◊◊◊",
     "pack": "Charizard",
@@ -376,7 +376,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_047_EN.webp"
   },
   {
-    "id": "a1-048",
+    "id": "A1-048",
     "name": "Heatmor",
     "rarity": "◊",
     "pack": "Every",
@@ -384,7 +384,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_048_EN.webp"
   },
   {
-    "id": "a1-049",
+    "id": "A1-049",
     "name": "Salandit",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -392,7 +392,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_049_EN.webp"
   },
   {
-    "id": "a1-050",
+    "id": "A1-050",
     "name": "Salazzle",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -400,7 +400,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_050_EN.webp"
   },
   {
-    "id": "a1-051",
+    "id": "A1-051",
     "name": "Sizzlipede",
     "rarity": "◊",
     "pack": "Every",
@@ -408,7 +408,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_051_EN.webp"
   },
   {
-    "id": "a1-052",
+    "id": "A1-052",
     "name": "Centiskorch",
     "rarity": "◊◊",
     "pack": "Every",
@@ -416,7 +416,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_052_EN.webp"
   },
   {
-    "id": "a1-053",
+    "id": "A1-053",
     "name": "Squirtle",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -424,7 +424,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_053_EN.webp"
   },
   {
-    "id": "a1-054",
+    "id": "A1-054",
     "name": "Wartortle",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -432,7 +432,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_054_EN.webp"
   },
   {
-    "id": "a1-055",
+    "id": "A1-055",
     "name": "Blastoise",
     "rarity": "◊◊◊",
     "pack": "Pikachu",
@@ -440,7 +440,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_055_EN.webp"
   },
   {
-    "id": "a1-056",
+    "id": "A1-056",
     "name": "Blastoise ex",
     "rarity": "◊◊◊◊",
     "pack": "Pikachu",
@@ -448,7 +448,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_056_EN.webp"
   },
   {
-    "id": "a1-057",
+    "id": "A1-057",
     "name": "Psyduck",
     "rarity": "◊",
     "pack": "Every",
@@ -456,7 +456,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_057_EN.webp"
   },
   {
-    "id": "a1-058",
+    "id": "A1-058",
     "name": "Golduck",
     "rarity": "◊◊",
     "pack": "Every",
@@ -464,7 +464,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_058_EN.webp"
   },
   {
-    "id": "a1-059",
+    "id": "A1-059",
     "name": "Poliwag",
     "rarity": "◊",
     "pack": "Charizard",
@@ -472,7 +472,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_059_EN.webp"
   },
   {
-    "id": "a1-060",
+    "id": "A1-060",
     "name": "Poliwhirl",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -480,7 +480,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_060_EN.webp"
   },
   {
-    "id": "a1-061",
+    "id": "A1-061",
     "name": "Poliwrath",
     "rarity": "◊◊◊",
     "pack": "Charizard",
@@ -488,7 +488,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_061_EN.webp"
   },
   {
-    "id": "a1-062",
+    "id": "A1-062",
     "name": "Tentacool",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -496,7 +496,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_062_EN.webp"
   },
   {
-    "id": "a1-063",
+    "id": "A1-063",
     "name": "Tentacruel",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -504,7 +504,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_063_EN.webp"
   },
   {
-    "id": "a1-064",
+    "id": "A1-064",
     "name": "Seel",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -512,7 +512,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_064_EN.webp"
   },
   {
-    "id": "a1-065",
+    "id": "A1-065",
     "name": "Dewgong",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -520,7 +520,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_065_EN.webp"
   },
   {
-    "id": "a1-066",
+    "id": "A1-066",
     "name": "Shellder",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -528,7 +528,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_066_EN.webp"
   },
   {
-    "id": "a1-067",
+    "id": "A1-067",
     "name": "Cloyster",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -536,7 +536,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_067_EN.webp"
   },
   {
-    "id": "a1-068",
+    "id": "A1-068",
     "name": "Krabby",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -544,7 +544,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_068_EN.webp"
   },
   {
-    "id": "a1-069",
+    "id": "A1-069",
     "name": "Kingler",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -552,7 +552,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_069_EN.webp"
   },
   {
-    "id": "a1-070",
+    "id": "A1-070",
     "name": "Horsea",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -560,7 +560,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_070_EN.webp"
   },
   {
-    "id": "a1-071",
+    "id": "A1-071",
     "name": "Seadra",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -568,7 +568,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_071_EN.webp"
   },
   {
-    "id": "a1-072",
+    "id": "A1-072",
     "name": "Goldeen",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -576,7 +576,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_072_EN.webp"
   },
   {
-    "id": "a1-073",
+    "id": "A1-073",
     "name": "Seaking",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -584,7 +584,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_073_EN.webp"
   },
   {
-    "id": "a1-074",
+    "id": "A1-074",
     "name": "Staryu",
     "rarity": "◊",
     "pack": "Charizard",
@@ -592,7 +592,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_074_EN.webp"
   },
   {
-    "id": "a1-075",
+    "id": "A1-075",
     "name": "Starmie",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -600,7 +600,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_075_EN.webp"
   },
   {
-    "id": "a1-076",
+    "id": "A1-076",
     "name": "Starmie ex",
     "rarity": "◊◊◊◊",
     "pack": "Charizard",
@@ -608,7 +608,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_076_EN.webp"
   },
   {
-    "id": "a1-077",
+    "id": "A1-077",
     "name": "Magikarp",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -616,7 +616,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_077_EN.webp"
   },
   {
-    "id": "a1-078",
+    "id": "A1-078",
     "name": "Gyarados",
     "rarity": "◊◊◊",
     "pack": "Pikachu",
@@ -624,7 +624,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_078_EN.webp"
   },
   {
-    "id": "a1-079",
+    "id": "A1-079",
     "name": "Lapras",
     "rarity": "◊◊◊",
     "pack": "Charizard",
@@ -632,7 +632,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_079_EN.webp"
   },
   {
-    "id": "a1-080",
+    "id": "A1-080",
     "name": "Vaporeon",
     "rarity": "◊◊◊",
     "pack": "Mewtwo",
@@ -640,7 +640,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_080_EN.webp"
   },
   {
-    "id": "a1-081",
+    "id": "A1-081",
     "name": "Omanyte",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -648,7 +648,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_081_EN.webp"
   },
   {
-    "id": "a1-082",
+    "id": "A1-082",
     "name": "Omastar",
     "rarity": "◊◊◊",
     "pack": "Pikachu",
@@ -656,7 +656,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_082_EN.webp"
   },
   {
-    "id": "a1-083",
+    "id": "A1-083",
     "name": "Articuno",
     "rarity": "◊◊◊",
     "pack": "Mewtwo",
@@ -664,7 +664,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_083_EN.webp"
   },
   {
-    "id": "a1-084",
+    "id": "A1-084",
     "name": "Articuno ex",
     "rarity": "◊◊◊◊",
     "pack": "Mewtwo",
@@ -672,7 +672,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_084_EN.webp"
   },
   {
-    "id": "a1-085",
+    "id": "A1-085",
     "name": "Ducklett",
     "rarity": "◊",
     "pack": "Charizard",
@@ -680,7 +680,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_085_EN.webp"
   },
   {
-    "id": "a1-086",
+    "id": "A1-086",
     "name": "Swanna",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -688,7 +688,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_086_EN.webp"
   },
   {
-    "id": "a1-087",
+    "id": "A1-087",
     "name": "Froakie",
     "rarity": "◊",
     "pack": "Charizard",
@@ -696,7 +696,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_087_EN.webp"
   },
   {
-    "id": "a1-088",
+    "id": "A1-088",
     "name": "Frogadier",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -704,7 +704,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_088_EN.webp"
   },
   {
-    "id": "a1-089",
+    "id": "A1-089",
     "name": "Greninja",
     "rarity": "◊◊◊",
     "pack": "Charizard",
@@ -712,7 +712,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_089_EN.webp"
   },
   {
-    "id": "a1-090",
+    "id": "A1-090",
     "name": "Pyukumuku",
     "rarity": "◊",
     "pack": "Charizard",
@@ -720,7 +720,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_090_EN.webp"
   },
   {
-    "id": "a1-091",
+    "id": "A1-091",
     "name": "Bruxish",
     "rarity": "◊◊",
     "pack": "Every",
@@ -728,7 +728,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_091_EN.webp"
   },
   {
-    "id": "a1-092",
+    "id": "A1-092",
     "name": "Snom",
     "rarity": "◊",
     "pack": "Every",
@@ -736,7 +736,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_092_EN.webp"
   },
   {
-    "id": "a1-093",
+    "id": "A1-093",
     "name": "Frosmoth",
     "rarity": "◊◊",
     "pack": "Every",
@@ -744,7 +744,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_093_EN.webp"
   },
   {
-    "id": "a1-094",
+    "id": "A1-094",
     "name": "Pikachu",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -752,7 +752,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_094_EN.webp"
   },
   {
-    "id": "a1-095",
+    "id": "A1-095",
     "name": "Raichu",
     "rarity": "◊◊◊",
     "pack": "Pikachu",
@@ -760,7 +760,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_095_EN.webp"
   },
   {
-    "id": "a1-096",
+    "id": "A1-096",
     "name": "Pikachu ex",
     "rarity": "◊◊◊◊",
     "pack": "Pikachu",
@@ -768,7 +768,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_096_EN.webp"
   },
   {
-    "id": "a1-097",
+    "id": "A1-097",
     "name": "Magnemite",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -776,7 +776,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_097_EN.webp"
   },
   {
-    "id": "a1-098",
+    "id": "A1-098",
     "name": "Magneton",
     "rarity": "◊◊◊",
     "pack": "Pikachu",
@@ -784,7 +784,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_098_EN.webp"
   },
   {
-    "id": "a1-099",
+    "id": "A1-099",
     "name": "Voltorb",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -792,7 +792,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_099_EN.webp"
   },
   {
-    "id": "a1-100",
+    "id": "A1-100",
     "name": "Electrode",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -800,7 +800,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_100_EN.webp"
   },
   {
-    "id": "a1-101",
+    "id": "A1-101",
     "name": "Electabuzz",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -808,7 +808,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_101_EN.webp"
   },
   {
-    "id": "a1-102",
+    "id": "A1-102",
     "name": "Jolteon",
     "rarity": "◊◊◊",
     "pack": "Pikachu",
@@ -816,7 +816,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_102_EN.webp"
   },
   {
-    "id": "a1-103",
+    "id": "A1-103",
     "name": "Zapdos",
     "rarity": "◊◊◊",
     "pack": "Pikachu",
@@ -824,7 +824,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_103_EN.webp"
   },
   {
-    "id": "a1-104",
+    "id": "A1-104",
     "name": "Zapdos ex",
     "rarity": "◊◊◊◊",
     "pack": "Pikachu",
@@ -832,7 +832,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_104_EN.webp"
   },
   {
-    "id": "a1-105",
+    "id": "A1-105",
     "name": "Blitzle",
     "rarity": "◊",
     "pack": "Every",
@@ -840,7 +840,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_105_EN.webp"
   },
   {
-    "id": "a1-106",
+    "id": "A1-106",
     "name": "Zebstrika",
     "rarity": "◊◊",
     "pack": "Every",
@@ -848,7 +848,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_106_EN.webp"
   },
   {
-    "id": "a1-107",
+    "id": "A1-107",
     "name": "Tynamo",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -856,7 +856,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_107_EN.webp"
   },
   {
-    "id": "a1-108",
+    "id": "A1-108",
     "name": "Eelektrik",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -864,7 +864,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_108_EN.webp"
   },
   {
-    "id": "a1-109",
+    "id": "A1-109",
     "name": "Eelektross",
     "rarity": "◊◊◊",
     "pack": "Mewtwo",
@@ -872,7 +872,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_109_EN.webp"
   },
   {
-    "id": "a1-110",
+    "id": "A1-110",
     "name": "Helioptile",
     "rarity": "◊",
     "pack": "Every",
@@ -880,7 +880,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_110_EN.webp"
   },
   {
-    "id": "a1-111",
+    "id": "A1-111",
     "name": "Heliolisk",
     "rarity": "◊",
     "pack": "Every",
@@ -888,7 +888,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_111_EN.webp"
   },
   {
-    "id": "a1-112",
+    "id": "A1-112",
     "name": "Pincurchin",
     "rarity": "◊◊",
     "pack": "Every",
@@ -896,7 +896,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_112_EN.webp"
   },
   {
-    "id": "a1-113",
+    "id": "A1-113",
     "name": "Clefairy",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -904,7 +904,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_113_EN.webp"
   },
   {
-    "id": "a1-114",
+    "id": "A1-114",
     "name": "Clefable",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -912,7 +912,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_114_EN.webp"
   },
   {
-    "id": "a1-115",
+    "id": "A1-115",
     "name": "Abra",
     "rarity": "◊",
     "pack": "Charizard",
@@ -920,7 +920,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_115_EN.webp"
   },
   {
-    "id": "a1-116",
+    "id": "A1-116",
     "name": "Kadabra",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -928,7 +928,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_116_EN.webp"
   },
   {
-    "id": "a1-117",
+    "id": "A1-117",
     "name": "Alakazam",
     "rarity": "◊◊◊",
     "pack": "Charizard",
@@ -936,7 +936,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_117_EN.webp"
   },
   {
-    "id": "a1-118",
+    "id": "A1-118",
     "name": "Slowpoke",
     "rarity": "◊",
     "pack": "Every",
@@ -944,7 +944,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_118_EN.webp"
   },
   {
-    "id": "a1-119",
+    "id": "A1-119",
     "name": "Slowbro",
     "rarity": "◊◊",
     "pack": "Every",
@@ -952,7 +952,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_119_EN.webp"
   },
   {
-    "id": "a1-120",
+    "id": "A1-120",
     "name": "Gastly",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -960,7 +960,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_120_EN.webp"
   },
   {
-    "id": "a1-121",
+    "id": "A1-121",
     "name": "Haunter",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -968,7 +968,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_121_EN.webp"
   },
   {
-    "id": "a1-122",
+    "id": "A1-122",
     "name": "Gengar",
     "rarity": "◊◊◊",
     "pack": "Mewtwo",
@@ -976,7 +976,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_122_EN.webp"
   },
   {
-    "id": "a1-123",
+    "id": "A1-123",
     "name": "Gengar ex",
     "rarity": "◊◊◊◊",
     "pack": "Mewtwo",
@@ -984,7 +984,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_123_EN.webp"
   },
   {
-    "id": "a1-124",
+    "id": "A1-124",
     "name": "Drowzee",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -992,7 +992,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_124_EN.webp"
   },
   {
-    "id": "a1-125",
+    "id": "A1-125",
     "name": "Hypno",
     "rarity": "◊◊◊",
     "pack": "Pikachu",
@@ -1000,7 +1000,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_125_EN.webp"
   },
   {
-    "id": "a1-126",
+    "id": "A1-126",
     "name": "Mr. Mime",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -1008,7 +1008,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_126_EN.webp"
   },
   {
-    "id": "a1-127",
+    "id": "A1-127",
     "name": "Jynx",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -1016,7 +1016,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_127_EN.webp"
   },
   {
-    "id": "a1-128",
+    "id": "A1-128",
     "name": "Mewtwo",
     "rarity": "◊◊◊",
     "pack": "Mewtwo",
@@ -1024,7 +1024,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_128_EN.webp"
   },
   {
-    "id": "a1-129",
+    "id": "A1-129",
     "name": "Mewtwo ex",
     "rarity": "◊◊◊◊",
     "pack": "Mewtwo",
@@ -1032,7 +1032,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_129_EN.webp"
   },
   {
-    "id": "a1-130",
+    "id": "A1-130",
     "name": "Ralts",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -1040,7 +1040,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_130_EN.webp"
   },
   {
-    "id": "a1-131",
+    "id": "A1-131",
     "name": "Kirlia",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -1048,7 +1048,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_131_EN.webp"
   },
   {
-    "id": "a1-132",
+    "id": "A1-132",
     "name": "Gardevoir",
     "rarity": "◊◊◊",
     "pack": "Mewtwo",
@@ -1056,7 +1056,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_132_EN.webp"
   },
   {
-    "id": "a1-133",
+    "id": "A1-133",
     "name": "Woobat",
     "rarity": "◊",
     "pack": "Every",
@@ -1064,7 +1064,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_133_EN.webp"
   },
   {
-    "id": "a1-134",
+    "id": "A1-134",
     "name": "Swoobat",
     "rarity": "◊",
     "pack": "Every",
@@ -1072,7 +1072,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_134_EN.webp"
   },
   {
-    "id": "a1-135",
+    "id": "A1-135",
     "name": "Golett",
     "rarity": "◊",
     "pack": "Every",
@@ -1080,7 +1080,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_135_EN.webp"
   },
   {
-    "id": "a1-136",
+    "id": "A1-136",
     "name": "Golurk",
     "rarity": "◊◊",
     "pack": "Every",
@@ -1088,7 +1088,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_136_EN.webp"
   },
   {
-    "id": "a1-137",
+    "id": "A1-137",
     "name": "Sandshrew",
     "rarity": "◊",
     "pack": "Every",
@@ -1096,7 +1096,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_137_EN.webp"
   },
   {
-    "id": "a1-138",
+    "id": "A1-138",
     "name": "Sandslash",
     "rarity": "◊◊",
     "pack": "Every",
@@ -1104,7 +1104,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_138_EN.webp"
   },
   {
-    "id": "a1-139",
+    "id": "A1-139",
     "name": "Diglett",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -1112,7 +1112,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_139_EN.webp"
   },
   {
-    "id": "a1-140",
+    "id": "A1-140",
     "name": "Dugtrio",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -1120,7 +1120,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_140_EN.webp"
   },
   {
-    "id": "a1-141",
+    "id": "A1-141",
     "name": "Mankey",
     "rarity": "◊",
     "pack": "Charizard",
@@ -1128,7 +1128,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_141_EN.webp"
   },
   {
-    "id": "a1-142",
+    "id": "A1-142",
     "name": "Primeape",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -1136,7 +1136,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_142_EN.webp"
   },
   {
-    "id": "a1-143",
+    "id": "A1-143",
     "name": "Machop",
     "rarity": "◊",
     "pack": "Charizard",
@@ -1144,7 +1144,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_143_EN.webp"
   },
   {
-    "id": "a1-144",
+    "id": "A1-144",
     "name": "Machoke",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -1152,7 +1152,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_144_EN.webp"
   },
   {
-    "id": "a1-145",
+    "id": "A1-145",
     "name": "Machamp",
     "rarity": "◊◊◊",
     "pack": "Charizard",
@@ -1160,7 +1160,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_145_EN.webp"
   },
   {
-    "id": "a1-146",
+    "id": "A1-146",
     "name": "Machamp ex",
     "rarity": "◊◊◊◊",
     "pack": "Charizard",
@@ -1168,7 +1168,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_146_EN.webp"
   },
   {
-    "id": "a1-147",
+    "id": "A1-147",
     "name": "Geodude",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -1176,7 +1176,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_147_EN.webp"
   },
   {
-    "id": "a1-148",
+    "id": "A1-148",
     "name": "Graveler",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -1184,7 +1184,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_148_EN.webp"
   },
   {
-    "id": "a1-149",
+    "id": "A1-149",
     "name": "Golem",
     "rarity": "◊◊◊",
     "pack": "Pikachu",
@@ -1192,7 +1192,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_149_EN.webp"
   },
   {
-    "id": "a1-150",
+    "id": "A1-150",
     "name": "Onix",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -1200,7 +1200,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_150_EN.webp"
   },
   {
-    "id": "a1-151",
+    "id": "A1-151",
     "name": "Cubone",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -1208,7 +1208,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_151_EN.webp"
   },
   {
-    "id": "a1-152",
+    "id": "A1-152",
     "name": "Marowak",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -1216,7 +1216,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_152_EN.webp"
   },
   {
-    "id": "a1-153",
+    "id": "A1-153",
     "name": "Marowak ex",
     "rarity": "◊◊◊◊",
     "pack": "Mewtwo",
@@ -1224,7 +1224,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_153_EN.webp"
   },
   {
-    "id": "a1-154",
+    "id": "A1-154",
     "name": "Hitmonlee",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -1232,7 +1232,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_154_EN.webp"
   },
   {
-    "id": "a1-155",
+    "id": "A1-155",
     "name": "Hitmonchan",
     "rarity": "◊",
     "pack": "Charizard",
@@ -1240,7 +1240,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_155_EN.webp"
   },
   {
-    "id": "a1-156",
+    "id": "A1-156",
     "name": "Rhyhorn",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -1248,7 +1248,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_156_EN.webp"
   },
   {
-    "id": "a1-157",
+    "id": "A1-157",
     "name": "Rhydon",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -1256,7 +1256,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_157_EN.webp"
   },
   {
-    "id": "a1-158",
+    "id": "A1-158",
     "name": "Kabuto",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -1264,7 +1264,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_158_EN.webp"
   },
   {
-    "id": "a1-159",
+    "id": "A1-159",
     "name": "Kabutops",
     "rarity": "◊◊◊",
     "pack": "Charizard",
@@ -1272,7 +1272,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_159_EN.webp"
   },
   {
-    "id": "a1-160",
+    "id": "A1-160",
     "name": "Mienfoo",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -1280,7 +1280,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_160_EN.webp"
   },
   {
-    "id": "a1-161",
+    "id": "A1-161",
     "name": "Mienshao",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -1288,7 +1288,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_161_EN.webp"
   },
   {
-    "id": "a1-162",
+    "id": "A1-162",
     "name": "Clobbopus",
     "rarity": "◊",
     "pack": "Every",
@@ -1296,7 +1296,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_162_EN.webp"
   },
   {
-    "id": "a1-163",
+    "id": "A1-163",
     "name": "Grapploct",
     "rarity": "◊◊",
     "pack": "Every",
@@ -1304,7 +1304,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_163_EN.webp"
   },
   {
-    "id": "a1-164",
+    "id": "A1-164",
     "name": "Ekans",
     "rarity": "◊",
     "pack": "Every",
@@ -1312,7 +1312,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_164_EN.webp"
   },
   {
-    "id": "a1-165",
+    "id": "A1-165",
     "name": "Arbok",
     "rarity": "◊◊",
     "pack": "Every",
@@ -1320,7 +1320,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_165_EN.webp"
   },
   {
-    "id": "a1-166",
+    "id": "A1-166",
     "name": "Nidoran♀",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -1328,7 +1328,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_166_EN.webp"
   },
   {
-    "id": "a1-167",
+    "id": "A1-167",
     "name": "Nidorina",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -1336,7 +1336,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_167_EN.webp"
   },
   {
-    "id": "a1-168",
+    "id": "A1-168",
     "name": "Nidoqueen",
     "rarity": "◊◊◊",
     "pack": "Pikachu",
@@ -1344,7 +1344,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_168_EN.webp"
   },
   {
-    "id": "a1-169",
+    "id": "A1-169",
     "name": "Nidoran♂",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -1352,7 +1352,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_169_EN.webp"
   },
   {
-    "id": "a1-170",
+    "id": "A1-170",
     "name": "Nidorino",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -1360,7 +1360,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_170_EN.webp"
   },
   {
-    "id": "a1-171",
+    "id": "A1-171",
     "name": "Nidoking",
     "rarity": "◊◊◊",
     "pack": "Pikachu",
@@ -1368,7 +1368,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_171_EN.webp"
   },
   {
-    "id": "a1-172",
+    "id": "A1-172",
     "name": "Zubat",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -1376,7 +1376,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_172_EN.webp"
   },
   {
-    "id": "a1-173",
+    "id": "A1-173",
     "name": "Golbat",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -1384,7 +1384,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_173_EN.webp"
   },
   {
-    "id": "a1-174",
+    "id": "A1-174",
     "name": "Grimer",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -1392,7 +1392,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_174_EN.webp"
   },
   {
-    "id": "a1-175",
+    "id": "A1-175",
     "name": "Muk",
     "rarity": "◊◊◊",
     "pack": "Mewtwo",
@@ -1400,7 +1400,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_175_EN.webp"
   },
   {
-    "id": "a1-176",
+    "id": "A1-176",
     "name": "Koffing",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -1408,7 +1408,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_176_EN.webp"
   },
   {
-    "id": "a1-177",
+    "id": "A1-177",
     "name": "Weezing",
     "rarity": "◊◊◊",
     "pack": "Mewtwo",
@@ -1416,7 +1416,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_177_EN.webp"
   },
   {
-    "id": "a1-178",
+    "id": "A1-178",
     "name": "Mawile",
     "rarity": "◊",
     "pack": "Charizard",
@@ -1424,7 +1424,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_178_EN.webp"
   },
   {
-    "id": "a1-179",
+    "id": "A1-179",
     "name": "Pawniard",
     "rarity": "◊",
     "pack": "Every",
@@ -1432,7 +1432,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_179_EN.webp"
   },
   {
-    "id": "a1-180",
+    "id": "A1-180",
     "name": "Bisharp",
     "rarity": "◊◊",
     "pack": "Every",
@@ -1440,7 +1440,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_180_EN.webp"
   },
   {
-    "id": "a1-181",
+    "id": "A1-181",
     "name": "Meltan",
     "rarity": "◊",
     "pack": "Charizard",
@@ -1448,7 +1448,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_181_EN.webp"
   },
   {
-    "id": "a1-182",
+    "id": "A1-182",
     "name": "Melmetal",
     "rarity": "◊◊◊",
     "pack": "Charizard",
@@ -1456,7 +1456,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_182_EN.webp"
   },
   {
-    "id": "a1-183",
+    "id": "A1-183",
     "name": "Dratini",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -1464,7 +1464,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_183_EN.webp"
   },
   {
-    "id": "a1-184",
+    "id": "A1-184",
     "name": "Dragonair",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -1472,7 +1472,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_184_EN.webp"
   },
   {
-    "id": "a1-185",
+    "id": "A1-185",
     "name": "Dragonite",
     "rarity": "◊◊◊",
     "pack": "Mewtwo",
@@ -1480,7 +1480,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_185_EN.webp"
   },
   {
-    "id": "a1-186",
+    "id": "A1-186",
     "name": "Pidgey",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -1488,7 +1488,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_186_EN.webp"
   },
   {
-    "id": "a1-187",
+    "id": "A1-187",
     "name": "Pidgeotto",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -1496,7 +1496,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_187_EN.webp"
   },
   {
-    "id": "a1-188",
+    "id": "A1-188",
     "name": "Pidgeot",
     "rarity": "◊◊◊",
     "pack": "Mewtwo",
@@ -1504,7 +1504,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_188_EN.webp"
   },
   {
-    "id": "a1-189",
+    "id": "A1-189",
     "name": "Rattata",
     "rarity": "◊",
     "pack": "Every",
@@ -1512,7 +1512,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_189_EN.webp"
   },
   {
-    "id": "a1-190",
+    "id": "A1-190",
     "name": "Raticate",
     "rarity": "◊",
     "pack": "Every",
@@ -1520,7 +1520,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_190_EN.webp"
   },
   {
-    "id": "a1-191",
+    "id": "A1-191",
     "name": "Spearow",
     "rarity": "◊",
     "pack": "Charizard",
@@ -1528,7 +1528,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_191_EN.webp"
   },
   {
-    "id": "a1-192",
+    "id": "A1-192",
     "name": "Fearow",
     "rarity": "◊",
     "pack": "Charizard",
@@ -1536,7 +1536,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_192_EN.webp"
   },
   {
-    "id": "a1-193",
+    "id": "A1-193",
     "name": "Jigglypuff",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -1544,7 +1544,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_193_EN.webp"
   },
   {
-    "id": "a1-194",
+    "id": "A1-194",
     "name": "Wigglytuff",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -1552,7 +1552,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_194_EN.webp"
   },
   {
-    "id": "a1-195",
+    "id": "A1-195",
     "name": "Wigglytuff ex",
     "rarity": "◊◊◊◊",
     "pack": "Pikachu",
@@ -1560,7 +1560,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_195_EN.webp"
   },
   {
-    "id": "a1-196",
+    "id": "A1-196",
     "name": "Meowth",
     "rarity": "◊",
     "pack": "Charizard",
@@ -1568,7 +1568,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_196_EN.webp"
   },
   {
-    "id": "a1-197",
+    "id": "A1-197",
     "name": "Persian",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -1576,7 +1576,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_197_EN.webp"
   },
   {
-    "id": "a1-198",
+    "id": "A1-198",
     "name": "Farfetch'd",
     "rarity": "◊",
     "pack": "Every",
@@ -1584,7 +1584,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_198_EN.webp"
   },
   {
-    "id": "a1-199",
+    "id": "A1-199",
     "name": "Doduo",
     "rarity": "◊",
     "pack": "Every",
@@ -1592,7 +1592,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_199_EN.webp"
   },
   {
-    "id": "a1-200",
+    "id": "A1-200",
     "name": "Dodrio",
     "rarity": "◊◊",
     "pack": "Every",
@@ -1600,7 +1600,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_200_EN.webp"
   },
   {
-    "id": "a1-201",
+    "id": "A1-201",
     "name": "Lickitung",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -1608,7 +1608,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_201_EN.webp"
   },
   {
-    "id": "a1-202",
+    "id": "A1-202",
     "name": "Chansey",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -1616,7 +1616,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_202_EN.webp"
   },
   {
-    "id": "a1-203",
+    "id": "A1-203",
     "name": "Kangaskhan",
     "rarity": "◊◊◊",
     "pack": "Charizard",
@@ -1624,7 +1624,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_203_EN.webp"
   },
   {
-    "id": "a1-204",
+    "id": "A1-204",
     "name": "Tauros",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -1632,7 +1632,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_204_EN.webp"
   },
   {
-    "id": "a1-205",
+    "id": "A1-205",
     "name": "Ditto",
     "rarity": "◊◊◊",
     "pack": "Mewtwo",
@@ -1640,7 +1640,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_205_EN.webp"
   },
   {
-    "id": "a1-206",
+    "id": "A1-206",
     "name": "Eevee",
     "rarity": "◊",
     "pack": "Charizard",
@@ -1648,7 +1648,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_206_EN.webp"
   },
   {
-    "id": "a1-207",
+    "id": "A1-207",
     "name": "Eevee",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -1656,7 +1656,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_207_EN.webp"
   },
   {
-    "id": "a1-208",
+    "id": "A1-208",
     "name": "Eevee",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -1664,7 +1664,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_208_EN.webp"
   },
   {
-    "id": "a1-209",
+    "id": "A1-209",
     "name": "Porygon",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -1672,7 +1672,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_209_EN.webp"
   },
   {
-    "id": "a1-210",
+    "id": "A1-210",
     "name": "Aerodactyl",
     "rarity": "◊◊◊",
     "pack": "Mewtwo",
@@ -1680,7 +1680,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_210_EN.webp"
   },
   {
-    "id": "a1-211",
+    "id": "A1-211",
     "name": "Snorlax",
     "rarity": "◊◊◊",
     "pack": "Pikachu",
@@ -1688,7 +1688,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_211_EN.webp"
   },
   {
-    "id": "a1-212",
+    "id": "A1-212",
     "name": "Minccino",
     "rarity": "◊",
     "pack": "Every",
@@ -1696,7 +1696,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_212_EN.webp"
   },
   {
-    "id": "a1-213",
+    "id": "A1-213",
     "name": "Cinccino",
     "rarity": "◊◊",
     "pack": "Every",
@@ -1704,7 +1704,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_213_EN.webp"
   },
   {
-    "id": "a1-214",
+    "id": "A1-214",
     "name": "Wooloo",
     "rarity": "◊",
     "pack": "Every",
@@ -1712,7 +1712,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_214_EN.webp"
   },
   {
-    "id": "a1-215",
+    "id": "A1-215",
     "name": "Dubwool",
     "rarity": "◊",
     "pack": "Every",
@@ -1720,7 +1720,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_215_EN.webp"
   },
   {
-    "id": "a1-216",
+    "id": "A1-216",
     "name": "Helix Fossil",
     "rarity": "◊",
     "pack": "Pikachu",
@@ -1728,7 +1728,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_216_EN.webp"
   },
   {
-    "id": "a1-217",
+    "id": "A1-217",
     "name": "Dome Fossil",
     "rarity": "◊",
     "pack": "Charizard",
@@ -1736,7 +1736,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_217_EN.webp"
   },
   {
-    "id": "a1-218",
+    "id": "A1-218",
     "name": "Old Amber",
     "rarity": "◊",
     "pack": "Mewtwo",
@@ -1744,7 +1744,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_218_EN.webp"
   },
   {
-    "id": "a1-219",
+    "id": "A1-219",
     "name": "Erika",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -1752,7 +1752,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_219_EN.webp"
   },
   {
-    "id": "a1-220",
+    "id": "A1-220",
     "name": "Misty",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -1760,7 +1760,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_220_EN.webp"
   },
   {
-    "id": "a1-221",
+    "id": "A1-221",
     "name": "Blaine",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -1768,7 +1768,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_221_EN.webp"
   },
   {
-    "id": "a1-222",
+    "id": "A1-222",
     "name": "Koga",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -1776,7 +1776,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_222_EN.webp"
   },
   {
-    "id": "a1-223",
+    "id": "A1-223",
     "name": "Giovanni",
     "rarity": "◊◊",
     "pack": "Mewtwo",
@@ -1784,7 +1784,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_223_EN.webp"
   },
   {
-    "id": "a1-224",
+    "id": "A1-224",
     "name": "Brock",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -1792,7 +1792,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_224_EN.webp"
   },
   {
-    "id": "a1-225",
+    "id": "A1-225",
     "name": "Sabrina",
     "rarity": "◊◊",
     "pack": "Charizard",
@@ -1800,7 +1800,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_225_EN.webp"
   },
   {
-    "id": "a1-226",
+    "id": "A1-226",
     "name": "Lt. Surge",
     "rarity": "◊◊",
     "pack": "Pikachu",
@@ -1808,7 +1808,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_226_EN.webp"
   },
   {
-    "id": "a1-227",
+    "id": "A1-227",
     "name": "Bulbasaur",
     "rarity": "☆",
     "pack": "Mewtwo",
@@ -1816,7 +1816,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_227_EN.webp"
   },
   {
-    "id": "a1-228",
+    "id": "A1-228",
     "name": "Gloom",
     "rarity": "☆",
     "pack": "Charizard",
@@ -1824,7 +1824,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_228_EN.webp"
   },
   {
-    "id": "a1-229",
+    "id": "A1-229",
     "name": "Pinsir",
     "rarity": "☆",
     "pack": "Charizard",
@@ -1832,7 +1832,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_229_EN.webp"
   },
   {
-    "id": "a1-230",
+    "id": "A1-230",
     "name": "Charmander",
     "rarity": "☆",
     "pack": "Charizard",
@@ -1840,7 +1840,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_230_EN.webp"
   },
   {
-    "id": "a1-231",
+    "id": "A1-231",
     "name": "Rapidash",
     "rarity": "☆",
     "pack": "Charizard",
@@ -1848,7 +1848,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_231_EN.webp"
   },
   {
-    "id": "a1-232",
+    "id": "A1-232",
     "name": "Squirtle",
     "rarity": "☆",
     "pack": "Pikachu",
@@ -1856,7 +1856,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_232_EN.webp"
   },
   {
-    "id": "a1-233",
+    "id": "A1-233",
     "name": "Gyarados",
     "rarity": "☆",
     "pack": "Pikachu",
@@ -1864,7 +1864,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_233_EN.webp"
   },
   {
-    "id": "a1-234",
+    "id": "A1-234",
     "name": "Lapras",
     "rarity": "☆",
     "pack": "Charizard",
@@ -1872,7 +1872,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_234_EN.webp"
   },
   {
-    "id": "a1-235",
+    "id": "A1-235",
     "name": "Electrode",
     "rarity": "☆",
     "pack": "Pikachu",
@@ -1880,7 +1880,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_235_EN.webp"
   },
   {
-    "id": "a1-236",
+    "id": "A1-236",
     "name": "Alakazam",
     "rarity": "☆",
     "pack": "Charizard",
@@ -1888,7 +1888,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_236_EN.webp"
   },
   {
-    "id": "a1-237",
+    "id": "A1-237",
     "name": "Slowpoke",
     "rarity": "☆",
     "pack": "Charizard",
@@ -1896,7 +1896,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_237_EN.webp"
   },
   {
-    "id": "a1-238",
+    "id": "A1-238",
     "name": "Diglett",
     "rarity": "☆",
     "pack": "Pikachu",
@@ -1904,7 +1904,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_238_EN.webp"
   },
   {
-    "id": "a1-239",
+    "id": "A1-239",
     "name": "Cubone",
     "rarity": "☆",
     "pack": "Mewtwo",
@@ -1912,7 +1912,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_239_EN.webp"
   },
   {
-    "id": "a1-240",
+    "id": "A1-240",
     "name": "Nidoqueen",
     "rarity": "☆",
     "pack": "Pikachu",
@@ -1920,7 +1920,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_240_EN.webp"
   },
   {
-    "id": "a1-241",
+    "id": "A1-241",
     "name": "Nidoking",
     "rarity": "☆",
     "pack": "Pikachu",
@@ -1928,7 +1928,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_241_EN.webp"
   },
   {
-    "id": "a1-242",
+    "id": "A1-242",
     "name": "Golbat",
     "rarity": "☆",
     "pack": "Mewtwo",
@@ -1936,7 +1936,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_242_EN.webp"
   },
   {
-    "id": "a1-243",
+    "id": "A1-243",
     "name": "Weezing",
     "rarity": "☆",
     "pack": "Mewtwo",
@@ -1944,7 +1944,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_243_EN.webp"
   },
   {
-    "id": "a1-244",
+    "id": "A1-244",
     "name": "Dragonite",
     "rarity": "☆",
     "pack": "Mewtwo",
@@ -1952,7 +1952,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_244_EN.webp"
   },
   {
-    "id": "a1-245",
+    "id": "A1-245",
     "name": "Pidgeot",
     "rarity": "☆",
     "pack": "Mewtwo",
@@ -1960,7 +1960,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_245_EN.webp"
   },
   {
-    "id": "a1-246",
+    "id": "A1-246",
     "name": "Meowth",
     "rarity": "☆",
     "pack": "Charizard",
@@ -1968,7 +1968,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_246_EN.webp"
   },
   {
-    "id": "a1-247",
+    "id": "A1-247",
     "name": "Ditto",
     "rarity": "☆",
     "pack": "Mewtwo",
@@ -1976,7 +1976,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_247_EN.webp"
   },
   {
-    "id": "a1-248",
+    "id": "A1-248",
     "name": "Eevee",
     "rarity": "☆",
     "pack": "Pikachu",
@@ -1984,7 +1984,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_248_EN.webp"
   },
   {
-    "id": "a1-249",
+    "id": "A1-249",
     "name": "Porygon",
     "rarity": "☆",
     "pack": "Mewtwo",
@@ -1992,7 +1992,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_249_EN.webp"
   },
   {
-    "id": "a1-250",
+    "id": "A1-250",
     "name": "Snorlax",
     "rarity": "☆",
     "pack": "Pikachu",
@@ -2000,7 +2000,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_250_EN.webp"
   },
   {
-    "id": "a1-251",
+    "id": "A1-251",
     "name": "Venusaur ex",
     "rarity": "☆☆",
     "pack": "Mewtwo",
@@ -2008,7 +2008,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_251_EN.webp"
   },
   {
-    "id": "a1-252",
+    "id": "A1-252",
     "name": "Exeggutor ex",
     "rarity": "☆☆",
     "pack": "Charizard",
@@ -2016,7 +2016,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_252_EN.webp"
   },
   {
-    "id": "a1-253",
+    "id": "A1-253",
     "name": "Charizard ex",
     "rarity": "☆☆",
     "pack": "Charizard",
@@ -2024,7 +2024,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_253_EN.webp"
   },
   {
-    "id": "a1-254",
+    "id": "A1-254",
     "name": "Arcanine ex",
     "rarity": "☆☆",
     "pack": "Pikachu",
@@ -2032,7 +2032,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_254_EN.webp"
   },
   {
-    "id": "a1-255",
+    "id": "A1-255",
     "name": "Moltres ex",
     "rarity": "☆☆",
     "pack": "Charizard",
@@ -2040,7 +2040,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_255_EN.webp"
   },
   {
-    "id": "a1-256",
+    "id": "A1-256",
     "name": "Blastoise ex",
     "rarity": "☆☆",
     "pack": "Pikachu",
@@ -2048,7 +2048,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_256_EN.webp"
   },
   {
-    "id": "a1-257",
+    "id": "A1-257",
     "name": "Starmie ex",
     "rarity": "☆☆",
     "pack": "Charizard",
@@ -2056,7 +2056,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_257_EN.webp"
   },
   {
-    "id": "a1-258",
+    "id": "A1-258",
     "name": "Articuno ex",
     "rarity": "☆☆",
     "pack": "Mewtwo",
@@ -2064,7 +2064,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_258_EN.webp"
   },
   {
-    "id": "a1-259",
+    "id": "A1-259",
     "name": "Pikachu ex",
     "rarity": "☆☆",
     "pack": "Pikachu",
@@ -2072,7 +2072,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_259_EN.webp"
   },
   {
-    "id": "a1-260",
+    "id": "A1-260",
     "name": "Zapdos ex",
     "rarity": "☆☆",
     "pack": "Pikachu",
@@ -2080,7 +2080,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_260_EN.webp"
   },
   {
-    "id": "a1-261",
+    "id": "A1-261",
     "name": "Gengar ex",
     "rarity": "☆☆",
     "pack": "Mewtwo",
@@ -2088,7 +2088,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_261_EN.webp"
   },
   {
-    "id": "a1-262",
+    "id": "A1-262",
     "name": "Mewtwo ex",
     "rarity": "☆☆",
     "pack": "Mewtwo",
@@ -2096,7 +2096,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_262_EN.webp"
   },
   {
-    "id": "a1-263",
+    "id": "A1-263",
     "name": "Machamp ex",
     "rarity": "☆☆",
     "pack": "Charizard",
@@ -2104,7 +2104,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_263_EN.webp"
   },
   {
-    "id": "a1-264",
+    "id": "A1-264",
     "name": "Marowak ex",
     "rarity": "☆☆",
     "pack": "Mewtwo",
@@ -2112,7 +2112,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_264_EN.webp"
   },
   {
-    "id": "a1-265",
+    "id": "A1-265",
     "name": "Wigglytuff ex",
     "rarity": "☆☆",
     "pack": "Pikachu",
@@ -2120,7 +2120,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_265_EN.webp"
   },
   {
-    "id": "a1-266",
+    "id": "A1-266",
     "name": "Erika",
     "rarity": "☆☆",
     "pack": "Charizard",
@@ -2128,7 +2128,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_266_EN.webp"
   },
   {
-    "id": "a1-267",
+    "id": "A1-267",
     "name": "Misty",
     "rarity": "☆☆",
     "pack": "Pikachu",
@@ -2136,7 +2136,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_267_EN.webp"
   },
   {
-    "id": "a1-268",
+    "id": "A1-268",
     "name": "Blaine",
     "rarity": "☆☆",
     "pack": "Charizard",
@@ -2144,7 +2144,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_268_EN.webp"
   },
   {
-    "id": "a1-269",
+    "id": "A1-269",
     "name": "Koga",
     "rarity": "☆☆",
     "pack": "Mewtwo",
@@ -2152,7 +2152,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_269_EN.webp"
   },
   {
-    "id": "a1-270",
+    "id": "A1-270",
     "name": "Giovanni",
     "rarity": "☆☆",
     "pack": "Mewtwo",
@@ -2160,7 +2160,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_270_EN.webp"
   },
   {
-    "id": "a1-271",
+    "id": "A1-271",
     "name": "Brock",
     "rarity": "☆☆",
     "pack": "Pikachu",
@@ -2168,7 +2168,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_271_EN.webp"
   },
   {
-    "id": "a1-272",
+    "id": "A1-272",
     "name": "Sabrina",
     "rarity": "☆☆",
     "pack": "Charizard",
@@ -2176,7 +2176,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_272_EN.webp"
   },
   {
-    "id": "a1-273",
+    "id": "A1-273",
     "name": "Lt. Surge",
     "rarity": "☆☆",
     "pack": "Pikachu",
@@ -2184,7 +2184,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_273_EN.webp"
   },
   {
-    "id": "a1-274",
+    "id": "A1-274",
     "name": "Moltres ex",
     "rarity": "☆☆",
     "pack": "Charizard",
@@ -2192,7 +2192,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_274_EN.webp"
   },
   {
-    "id": "a1-275",
+    "id": "A1-275",
     "name": "Articuno ex",
     "rarity": "☆☆",
     "pack": "Mewtwo",
@@ -2200,7 +2200,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_275_EN.webp"
   },
   {
-    "id": "a1-276",
+    "id": "A1-276",
     "name": "Zapdos ex",
     "rarity": "☆☆",
     "pack": "Pikachu",
@@ -2208,7 +2208,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_276_EN.webp"
   },
   {
-    "id": "a1-277",
+    "id": "A1-277",
     "name": "Gengar ex",
     "rarity": "☆☆",
     "pack": "Mewtwo",
@@ -2216,7 +2216,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_277_EN.webp"
   },
   {
-    "id": "a1-278",
+    "id": "A1-278",
     "name": "Machamp ex",
     "rarity": "☆☆",
     "pack": "Charizard",
@@ -2224,7 +2224,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_278_EN.webp"
   },
   {
-    "id": "a1-279",
+    "id": "A1-279",
     "name": "Wigglytuff ex",
     "rarity": "☆☆",
     "pack": "Pikachu",
@@ -2232,7 +2232,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_279_EN.webp"
   },
   {
-    "id": "a1-280",
+    "id": "A1-280",
     "name": "Charizard ex",
     "rarity": "☆☆☆",
     "pack": "Charizard",
@@ -2240,7 +2240,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_280_EN.webp"
   },
   {
-    "id": "a1-281",
+    "id": "A1-281",
     "name": "Pikachu ex",
     "rarity": "☆☆☆",
     "pack": "Pikachu",
@@ -2248,7 +2248,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_281_EN.webp"
   },
   {
-    "id": "a1-282",
+    "id": "A1-282",
     "name": "Mewtwo ex",
     "rarity": "☆☆☆",
     "pack": "Mewtwo",
@@ -2256,7 +2256,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_282_EN.webp"
   },
   {
-    "id": "a1-283",
+    "id": "A1-283",
     "name": "Mew",
     "rarity": "☆☆☆",
     "pack": "Every",
@@ -2264,7 +2264,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_283_EN.webp"
   },
   {
-    "id": "a1-284",
+    "id": "A1-284",
     "name": "Charizard ex",
     "rarity": "♕",
     "pack": "Every",
@@ -2272,7 +2272,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_284_EN.webp"
   },
   {
-    "id": "a1-285",
+    "id": "A1-285",
     "name": "Pikachu ex",
     "rarity": "♕",
     "pack": "Every",
@@ -2280,7 +2280,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_285_EN.webp"
   },
   {
-    "id": "a1-286",
+    "id": "A1-286",
     "name": "Mewtwo ex",
     "rarity": "♕",
     "pack": "Every",
@@ -2616,7 +2616,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_041_EN.webp"
   },
   {
-    "id": "a1a-001",
+    "id": "A1a-001",
     "name": "Exeggcute",
     "rarity": "◊",
     "pack": "Every",
@@ -2624,7 +2624,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_001_EN.webp"
   },
   {
-    "id": "a1a-002",
+    "id": "A1a-002",
     "name": "Exeggutor",
     "rarity": "◊◊",
     "pack": "Every",
@@ -2632,7 +2632,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_002_EN.webp"
   },
   {
-    "id": "a1a-003",
+    "id": "A1a-003",
     "name": "Celebi ex",
     "rarity": "◊◊◊◊",
     "pack": "Every",
@@ -2640,7 +2640,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_003_EN.webp"
   },
   {
-    "id": "a1a-004",
+    "id": "A1a-004",
     "name": "Snivy",
     "rarity": "◊",
     "pack": "Every",
@@ -2648,7 +2648,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_004_EN.webp"
   },
   {
-    "id": "a1a-005",
+    "id": "A1a-005",
     "name": "Servine",
     "rarity": "◊◊",
     "pack": "Every",
@@ -2656,7 +2656,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_005_EN.webp"
   },
   {
-    "id": "a1a-006",
+    "id": "A1a-006",
     "name": "Serperior",
     "rarity": "◊◊◊",
     "pack": "Every",
@@ -2664,7 +2664,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_006_EN.webp"
   },
   {
-    "id": "a1a-007",
+    "id": "A1a-007",
     "name": "Morelull",
     "rarity": "◊",
     "pack": "Every",
@@ -2672,7 +2672,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_007_EN.webp"
   },
   {
-    "id": "a1a-008",
+    "id": "A1a-008",
     "name": "Shiinotic",
     "rarity": "◊◊",
     "pack": "Every",
@@ -2680,7 +2680,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_008_EN.webp"
   },
   {
-    "id": "a1a-009",
+    "id": "A1a-009",
     "name": "Dhelmise",
     "rarity": "◊◊",
     "pack": "Every",
@@ -2688,7 +2688,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_009_EN.webp"
   },
   {
-    "id": "a1a-010",
+    "id": "A1a-010",
     "name": "Ponyta",
     "rarity": "◊",
     "pack": "Every",
@@ -2696,7 +2696,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_010_EN.webp"
   },
   {
-    "id": "a1a-011",
+    "id": "A1a-011",
     "name": "Rapidash",
     "rarity": "◊◊",
     "pack": "Every",
@@ -2704,7 +2704,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_011_EN.webp"
   },
   {
-    "id": "a1a-012",
+    "id": "A1a-012",
     "name": "Magmar",
     "rarity": "◊◊",
     "pack": "Every",
@@ -2712,7 +2712,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_012_EN.webp"
   },
   {
-    "id": "a1a-013",
+    "id": "A1a-013",
     "name": "Larvesta",
     "rarity": "◊",
     "pack": "Every",
@@ -2720,7 +2720,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_013_EN.webp"
   },
   {
-    "id": "a1a-014",
+    "id": "A1a-014",
     "name": "Volcarona",
     "rarity": "◊◊◊",
     "pack": "Every",
@@ -2728,7 +2728,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_014_EN.webp"
   },
   {
-    "id": "a1a-015",
+    "id": "A1a-015",
     "name": "Salandit",
     "rarity": "◊",
     "pack": "Every",
@@ -2736,7 +2736,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_015_EN.webp"
   },
   {
-    "id": "a1a-016",
+    "id": "A1a-016",
     "name": "Salazzle",
     "rarity": "◊",
     "pack": "Every",
@@ -2744,7 +2744,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_016_EN.webp"
   },
   {
-    "id": "a1a-017",
+    "id": "A1a-017",
     "name": "Magikarp",
     "rarity": "◊",
     "pack": "Every",
@@ -2752,7 +2752,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_017_EN.webp"
   },
   {
-    "id": "a1a-018",
+    "id": "A1a-018",
     "name": "Gyarados ex",
     "rarity": "◊◊◊◊",
     "pack": "Every",
@@ -2760,7 +2760,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_018_EN.webp"
   },
   {
-    "id": "a1a-019",
+    "id": "A1a-019",
     "name": "Vaporeon",
     "rarity": "◊◊◊",
     "pack": "Every",
@@ -2768,7 +2768,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_019_EN.webp"
   },
   {
-    "id": "a1a-020",
+    "id": "A1a-020",
     "name": "Finneon",
     "rarity": "◊",
     "pack": "Every",
@@ -2776,7 +2776,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_020_EN.webp"
   },
   {
-    "id": "a1a-021",
+    "id": "A1a-021",
     "name": "Lumineon",
     "rarity": "◊◊",
     "pack": "Every",
@@ -2784,7 +2784,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_021_EN.webp"
   },
   {
-    "id": "a1a-022",
+    "id": "A1a-022",
     "name": "Chewtle",
     "rarity": "◊",
     "pack": "Every",
@@ -2792,7 +2792,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_022_EN.webp"
   },
   {
-    "id": "a1a-023",
+    "id": "A1a-023",
     "name": "Drednaw",
     "rarity": "◊◊",
     "pack": "Every",
@@ -2800,7 +2800,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_023_EN.webp"
   },
   {
-    "id": "a1a-024",
+    "id": "A1a-024",
     "name": "Cramorant",
     "rarity": "◊",
     "pack": "Every",
@@ -2808,7 +2808,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_024_EN.webp"
   },
   {
-    "id": "a1a-025",
+    "id": "A1a-025",
     "name": "Pikachu",
     "rarity": "◊",
     "pack": "Every",
@@ -2816,7 +2816,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_025_EN.webp"
   },
   {
-    "id": "a1a-026",
+    "id": "A1a-026",
     "name": "Raichu",
     "rarity": "◊◊◊",
     "pack": "Every",
@@ -2824,7 +2824,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_026_EN.webp"
   },
   {
-    "id": "a1a-027",
+    "id": "A1a-027",
     "name": "Electabuzz",
     "rarity": "◊◊",
     "pack": "Every",
@@ -2832,7 +2832,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_027_EN.webp"
   },
   {
-    "id": "a1a-028",
+    "id": "A1a-028",
     "name": "Joltik",
     "rarity": "◊",
     "pack": "Every",
@@ -2840,7 +2840,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_028_EN.webp"
   },
   {
-    "id": "a1a-029",
+    "id": "A1a-029",
     "name": "Galvantula",
     "rarity": "◊◊",
     "pack": "Every",
@@ -2848,7 +2848,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_029_EN.webp"
   },
   {
-    "id": "a1a-030",
+    "id": "A1a-030",
     "name": "Dedenne",
     "rarity": "◊",
     "pack": "Every",
@@ -2856,7 +2856,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_030_EN.webp"
   },
   {
-    "id": "a1a-031",
+    "id": "A1a-031",
     "name": "Mew",
     "rarity": "◊◊◊",
     "pack": "Every",
@@ -2864,7 +2864,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_031_EN.webp"
   },
   {
-    "id": "a1a-032",
+    "id": "A1a-032",
     "name": "Mew ex",
     "rarity": "◊◊◊◊",
     "pack": "Every",
@@ -2872,7 +2872,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_032_EN.webp"
   },
   {
-    "id": "a1a-033",
+    "id": "A1a-033",
     "name": "Sigilyph",
     "rarity": "◊◊",
     "pack": "Every",
@@ -2880,7 +2880,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_033_EN.webp"
   },
   {
-    "id": "a1a-034",
+    "id": "A1a-034",
     "name": "Elgyem",
     "rarity": "◊",
     "pack": "Every",
@@ -2888,7 +2888,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_034_EN.webp"
   },
   {
-    "id": "a1a-035",
+    "id": "A1a-035",
     "name": "Beheeyem",
     "rarity": "◊◊",
     "pack": "Every",
@@ -2896,7 +2896,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_035_EN.webp"
   },
   {
-    "id": "a1a-036",
+    "id": "A1a-036",
     "name": "Flabébé",
     "rarity": "◊",
     "pack": "Every",
@@ -2904,7 +2904,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_036_EN.webp"
   },
   {
-    "id": "a1a-037",
+    "id": "A1a-037",
     "name": "Floette",
     "rarity": "◊",
     "pack": "Every",
@@ -2912,7 +2912,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_037_EN.webp"
   },
   {
-    "id": "a1a-038",
+    "id": "A1a-038",
     "name": "Florges",
     "rarity": "◊◊",
     "pack": "Every",
@@ -2920,7 +2920,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_038_EN.webp"
   },
   {
-    "id": "a1a-039",
+    "id": "A1a-039",
     "name": "Swirlix",
     "rarity": "◊",
     "pack": "Every",
@@ -2928,7 +2928,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_039_EN.webp"
   },
   {
-    "id": "a1a-040",
+    "id": "A1a-040",
     "name": "Slurpuff",
     "rarity": "◊",
     "pack": "Every",
@@ -2936,7 +2936,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_040_EN.webp"
   },
   {
-    "id": "a1a-041",
+    "id": "A1a-041",
     "name": "Mankey",
     "rarity": "◊",
     "pack": "Every",
@@ -2944,7 +2944,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_041_EN.webp"
   },
   {
-    "id": "a1a-042",
+    "id": "A1a-042",
     "name": "Primeape",
     "rarity": "◊",
     "pack": "Every",
@@ -2952,7 +2952,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_042_EN.webp"
   },
   {
-    "id": "a1a-043",
+    "id": "A1a-043",
     "name": "Geodude",
     "rarity": "◊",
     "pack": "Every",
@@ -2960,7 +2960,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_043_EN.webp"
   },
   {
-    "id": "a1a-044",
+    "id": "A1a-044",
     "name": "Graveler",
     "rarity": "◊◊",
     "pack": "Every",
@@ -2968,7 +2968,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_044_EN.webp"
   },
   {
-    "id": "a1a-045",
+    "id": "A1a-045",
     "name": "Golem",
     "rarity": "◊◊◊",
     "pack": "Every",
@@ -2976,7 +2976,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_045_EN.webp"
   },
   {
-    "id": "a1a-046",
+    "id": "A1a-046",
     "name": "Aerodactyl ex",
     "rarity": "◊◊◊◊",
     "pack": "Every",
@@ -2984,7 +2984,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_046_EN.webp"
   },
   {
-    "id": "a1a-047",
+    "id": "A1a-047",
     "name": "Marshadow",
     "rarity": "◊◊◊",
     "pack": "Every",
@@ -2992,7 +2992,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_047_EN.webp"
   },
   {
-    "id": "a1a-048",
+    "id": "A1a-048",
     "name": "Stonjourner",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3000,7 +3000,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_048_EN.webp"
   },
   {
-    "id": "a1a-049",
+    "id": "A1a-049",
     "name": "Koffing",
     "rarity": "◊",
     "pack": "Every",
@@ -3008,7 +3008,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_049_EN.webp"
   },
   {
-    "id": "a1a-050",
+    "id": "A1a-050",
     "name": "Weezing",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3016,7 +3016,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_050_EN.webp"
   },
   {
-    "id": "a1a-051",
+    "id": "A1a-051",
     "name": "Purrloin",
     "rarity": "◊",
     "pack": "Every",
@@ -3024,7 +3024,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_051_EN.webp"
   },
   {
-    "id": "a1a-052",
+    "id": "A1a-052",
     "name": "Liepard",
     "rarity": "◊",
     "pack": "Every",
@@ -3032,7 +3032,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_052_EN.webp"
   },
   {
-    "id": "a1a-053",
+    "id": "A1a-053",
     "name": "Venipede",
     "rarity": "◊",
     "pack": "Every",
@@ -3040,7 +3040,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_053_EN.webp"
   },
   {
-    "id": "a1a-054",
+    "id": "A1a-054",
     "name": "Whirlipede",
     "rarity": "◊",
     "pack": "Every",
@@ -3048,7 +3048,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_054_EN.webp"
   },
   {
-    "id": "a1a-055",
+    "id": "A1a-055",
     "name": "Scolipede",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3056,7 +3056,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_055_EN.webp"
   },
   {
-    "id": "a1a-056",
+    "id": "A1a-056",
     "name": "Druddigon",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3064,7 +3064,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_056_EN.webp"
   },
   {
-    "id": "a1a-057",
+    "id": "A1a-057",
     "name": "Pidgey",
     "rarity": "◊",
     "pack": "Every",
@@ -3072,7 +3072,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_057_EN.webp"
   },
   {
-    "id": "a1a-058",
+    "id": "A1a-058",
     "name": "Pidgeotto",
     "rarity": "◊",
     "pack": "Every",
@@ -3080,7 +3080,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_058_EN.webp"
   },
   {
-    "id": "a1a-059",
+    "id": "A1a-059",
     "name": "Pidgeot ex",
     "rarity": "◊◊◊◊",
     "pack": "Every",
@@ -3088,7 +3088,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_059_EN.webp"
   },
   {
-    "id": "a1a-060",
+    "id": "A1a-060",
     "name": "Tauros",
     "rarity": "◊◊◊",
     "pack": "Every",
@@ -3096,7 +3096,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_060_EN.webp"
   },
   {
-    "id": "a1a-061",
+    "id": "A1a-061",
     "name": "Eevee",
     "rarity": "◊",
     "pack": "Every",
@@ -3104,7 +3104,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_061_EN.webp"
   },
   {
-    "id": "a1a-062",
+    "id": "A1a-062",
     "name": "Chatot",
     "rarity": "◊",
     "pack": "Every",
@@ -3112,7 +3112,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_062_EN.webp"
   },
   {
-    "id": "a1a-063",
+    "id": "A1a-063",
     "name": "Old Amber",
     "rarity": "◊",
     "pack": "Every",
@@ -3120,7 +3120,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_063_EN.webp"
   },
   {
-    "id": "a1a-064",
+    "id": "A1a-064",
     "name": "Pokémon Flute",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3128,7 +3128,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_064_EN.webp"
   },
   {
-    "id": "a1a-065",
+    "id": "A1a-065",
     "name": "Mythical Slab",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3136,7 +3136,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_065_EN.webp"
   },
   {
-    "id": "a1a-066",
+    "id": "A1a-066",
     "name": "Budding Expeditioner",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3144,7 +3144,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_066_EN.webp"
   },
   {
-    "id": "a1a-067",
+    "id": "A1a-067",
     "name": "Blue",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3152,7 +3152,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_067_EN.webp"
   },
   {
-    "id": "a1a-068",
+    "id": "A1a-068",
     "name": "Leaf",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3160,7 +3160,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_068_EN.webp"
   },
   {
-    "id": "a1a-069",
+    "id": "A1a-069",
     "name": "Exeggutor",
     "rarity": "☆",
     "pack": "Every",
@@ -3168,7 +3168,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_069_EN.webp"
   },
   {
-    "id": "a1a-070",
+    "id": "A1a-070",
     "name": "Serperior",
     "rarity": "☆",
     "pack": "Every",
@@ -3176,7 +3176,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_070_EN.webp"
   },
   {
-    "id": "a1a-071",
+    "id": "A1a-071",
     "name": "Salandit",
     "rarity": "☆",
     "pack": "Every",
@@ -3184,7 +3184,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_071_EN.webp"
   },
   {
-    "id": "a1a-072",
+    "id": "A1a-072",
     "name": "Vaporeon",
     "rarity": "☆",
     "pack": "Every",
@@ -3192,7 +3192,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_072_EN.webp"
   },
   {
-    "id": "a1a-073",
+    "id": "A1a-073",
     "name": "Dedenne",
     "rarity": "☆",
     "pack": "Every",
@@ -3200,7 +3200,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_073_EN.webp"
   },
   {
-    "id": "a1a-074",
+    "id": "A1a-074",
     "name": "Marshadow",
     "rarity": "☆",
     "pack": "Every",
@@ -3208,7 +3208,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_074_EN.webp"
   },
   {
-    "id": "a1a-075",
+    "id": "A1a-075",
     "name": "Celebi ex",
     "rarity": "☆☆",
     "pack": "Every",
@@ -3216,7 +3216,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_075_EN.webp"
   },
   {
-    "id": "a1a-076",
+    "id": "A1a-076",
     "name": "Gyarados ex",
     "rarity": "☆☆",
     "pack": "Every",
@@ -3224,7 +3224,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_076_EN.webp"
   },
   {
-    "id": "a1a-077",
+    "id": "A1a-077",
     "name": "Mew ex",
     "rarity": "☆☆",
     "pack": "Every",
@@ -3232,7 +3232,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_077_EN.webp"
   },
   {
-    "id": "a1a-078",
+    "id": "A1a-078",
     "name": "Aerodactyl ex",
     "rarity": "☆☆",
     "pack": "Every",
@@ -3240,7 +3240,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_078_EN.webp"
   },
   {
-    "id": "a1a-079",
+    "id": "A1a-079",
     "name": "Pidgeot ex",
     "rarity": "☆☆",
     "pack": "Every",
@@ -3248,7 +3248,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_079_EN.webp"
   },
   {
-    "id": "a1a-080",
+    "id": "A1a-080",
     "name": "Budding Expeditioner",
     "rarity": "☆☆",
     "pack": "Every",
@@ -3256,7 +3256,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_080_EN.webp"
   },
   {
-    "id": "a1a-081",
+    "id": "A1a-081",
     "name": "Blue",
     "rarity": "☆☆",
     "pack": "Every",
@@ -3264,7 +3264,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_081_EN.webp"
   },
   {
-    "id": "a1a-082",
+    "id": "A1a-082",
     "name": "Leaf",
     "rarity": "☆☆",
     "pack": "Every",
@@ -3272,7 +3272,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_082_EN.webp"
   },
   {
-    "id": "a1a-083",
+    "id": "A1a-083",
     "name": "Mew ex",
     "rarity": "☆☆",
     "pack": "Every",
@@ -3280,7 +3280,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_083_EN.webp"
   },
   {
-    "id": "a1a-084",
+    "id": "A1a-084",
     "name": "Aerodactyl ex",
     "rarity": "☆☆",
     "pack": "Every",
@@ -3288,7 +3288,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_084_EN.webp"
   },
   {
-    "id": "a1a-085",
+    "id": "A1a-085",
     "name": "Celebi ex",
     "rarity": "☆☆☆",
     "pack": "Every",
@@ -3296,7 +3296,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_085_EN.webp"
   },
   {
-    "id": "a1a-086",
+    "id": "A1a-086",
     "name": "Mew ex",
     "rarity": "♕",
     "pack": "Every",
@@ -3304,7 +3304,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_086_EN.webp"
   },
   {
-    "id": "a2-001",
+    "id": "A2-001",
     "name": "Oddish",
     "rarity": "◊",
     "pack": "Every",
@@ -3312,7 +3312,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_001_EN.webp"
   },
   {
-    "id": "a2-002",
+    "id": "A2-002",
     "name": "Gloom",
     "rarity": "◊",
     "pack": "Every",
@@ -3320,7 +3320,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_002_EN.webp"
   },
   {
-    "id": "a2-003",
+    "id": "A2-003",
     "name": "Bellossom",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3328,7 +3328,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_003_EN.webp"
   },
   {
-    "id": "a2-004",
+    "id": "A2-004",
     "name": "Tangela",
     "rarity": "◊",
     "pack": "Dialga",
@@ -3336,7 +3336,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_004_EN.webp"
   },
   {
-    "id": "a2-005",
+    "id": "A2-005",
     "name": "Tangrowth",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -3344,7 +3344,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_005_EN.webp"
   },
   {
-    "id": "a2-006",
+    "id": "A2-006",
     "name": "Yanma",
     "rarity": "◊",
     "pack": "Dialga",
@@ -3352,7 +3352,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_006_EN.webp"
   },
   {
-    "id": "a2-007",
+    "id": "A2-007",
     "name": "Yanmega ex",
     "rarity": "◊◊◊◊",
     "pack": "Dialga",
@@ -3360,7 +3360,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_007_EN.webp"
   },
   {
-    "id": "a2-008",
+    "id": "A2-008",
     "name": "Roselia",
     "rarity": "◊",
     "pack": "Every",
@@ -3368,7 +3368,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_008_EN.webp"
   },
   {
-    "id": "a2-009",
+    "id": "A2-009",
     "name": "Roserade",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3376,7 +3376,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_009_EN.webp"
   },
   {
-    "id": "a2-010",
+    "id": "A2-010",
     "name": "Turtwig",
     "rarity": "◊",
     "pack": "Palkia",
@@ -3384,7 +3384,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_010_EN.webp"
   },
   {
-    "id": "a2-011",
+    "id": "A2-011",
     "name": "Grotle",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -3392,7 +3392,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_011_EN.webp"
   },
   {
-    "id": "a2-012",
+    "id": "A2-012",
     "name": "Torterra",
     "rarity": "◊◊◊",
     "pack": "Palkia",
@@ -3400,7 +3400,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_012_EN.webp"
   },
   {
-    "id": "a2-013",
+    "id": "A2-013",
     "name": "Kricketot",
     "rarity": "◊",
     "pack": "Palkia",
@@ -3408,7 +3408,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_013_EN.webp"
   },
   {
-    "id": "a2-014",
+    "id": "A2-014",
     "name": "Kricketune",
     "rarity": "◊",
     "pack": "Palkia",
@@ -3416,7 +3416,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_014_EN.webp"
   },
   {
-    "id": "a2-015",
+    "id": "A2-015",
     "name": "Burmy",
     "rarity": "◊",
     "pack": "Every",
@@ -3424,7 +3424,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_015_EN.webp"
   },
   {
-    "id": "a2-016",
+    "id": "A2-016",
     "name": "Wormadam",
     "rarity": "◊",
     "pack": "Every",
@@ -3432,7 +3432,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_016_EN.webp"
   },
   {
-    "id": "a2-017",
+    "id": "A2-017",
     "name": "Combee",
     "rarity": "◊",
     "pack": "Dialga",
@@ -3440,7 +3440,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_017_EN.webp"
   },
   {
-    "id": "a2-018",
+    "id": "A2-018",
     "name": "Vespiquen",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -3448,7 +3448,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_018_EN.webp"
   },
   {
-    "id": "a2-019",
+    "id": "A2-019",
     "name": "Carnivine",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -3456,7 +3456,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_019_EN.webp"
   },
   {
-    "id": "a2-020",
+    "id": "A2-020",
     "name": "Leafeon",
     "rarity": "◊◊◊",
     "pack": "Dialga",
@@ -3464,7 +3464,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_020_EN.webp"
   },
   {
-    "id": "a2-021",
+    "id": "A2-021",
     "name": "Mow Rotom",
     "rarity": "◊",
     "pack": "Every",
@@ -3472,7 +3472,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_021_EN.webp"
   },
   {
-    "id": "a2-022",
+    "id": "A2-022",
     "name": "Shaymin",
     "rarity": "◊◊◊",
     "pack": "Dialga",
@@ -3480,7 +3480,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_022_EN.webp"
   },
   {
-    "id": "a2-023",
+    "id": "A2-023",
     "name": "Magmar",
     "rarity": "◊",
     "pack": "Palkia",
@@ -3488,7 +3488,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_023_EN.webp"
   },
   {
-    "id": "a2-024",
+    "id": "A2-024",
     "name": "Magmortar",
     "rarity": "◊◊◊",
     "pack": "Palkia",
@@ -3496,7 +3496,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_024_EN.webp"
   },
   {
-    "id": "a2-025",
+    "id": "A2-025",
     "name": "Slugma",
     "rarity": "◊",
     "pack": "Every",
@@ -3504,7 +3504,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_025_EN.webp"
   },
   {
-    "id": "a2-026",
+    "id": "A2-026",
     "name": "Magcargo",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3512,7 +3512,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_026_EN.webp"
   },
   {
-    "id": "a2-027",
+    "id": "A2-027",
     "name": "Chimchar",
     "rarity": "◊",
     "pack": "Palkia",
@@ -3520,7 +3520,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_027_EN.webp"
   },
   {
-    "id": "a2-028",
+    "id": "A2-028",
     "name": "Monferno",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -3528,7 +3528,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_028_EN.webp"
   },
   {
-    "id": "a2-029",
+    "id": "A2-029",
     "name": "Infernape ex",
     "rarity": "◊◊◊◊",
     "pack": "Palkia",
@@ -3536,7 +3536,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_029_EN.webp"
   },
   {
-    "id": "a2-030",
+    "id": "A2-030",
     "name": "Heat Rotom",
     "rarity": "◊",
     "pack": "Every",
@@ -3544,7 +3544,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_030_EN.webp"
   },
   {
-    "id": "a2-031",
+    "id": "A2-031",
     "name": "Swinub",
     "rarity": "◊",
     "pack": "Dialga",
@@ -3552,7 +3552,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_031_EN.webp"
   },
   {
-    "id": "a2-032",
+    "id": "A2-032",
     "name": "Piloswine",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -3560,7 +3560,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_032_EN.webp"
   },
   {
-    "id": "a2-033",
+    "id": "A2-033",
     "name": "Mamoswine",
     "rarity": "◊◊◊",
     "pack": "Dialga",
@@ -3568,7 +3568,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_033_EN.webp"
   },
   {
-    "id": "a2-034",
+    "id": "A2-034",
     "name": "Regice",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -3576,7 +3576,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_034_EN.webp"
   },
   {
-    "id": "a2-035",
+    "id": "A2-035",
     "name": "Piplup",
     "rarity": "◊",
     "pack": "Palkia",
@@ -3584,7 +3584,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_035_EN.webp"
   },
   {
-    "id": "a2-036",
+    "id": "A2-036",
     "name": "Prinplup",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -3592,7 +3592,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_036_EN.webp"
   },
   {
-    "id": "a2-037",
+    "id": "A2-037",
     "name": "Empoleon",
     "rarity": "◊◊◊",
     "pack": "Palkia",
@@ -3600,7 +3600,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_037_EN.webp"
   },
   {
-    "id": "a2-038",
+    "id": "A2-038",
     "name": "Buizel",
     "rarity": "◊",
     "pack": "Every",
@@ -3608,7 +3608,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_038_EN.webp"
   },
   {
-    "id": "a2-039",
+    "id": "A2-039",
     "name": "Floatzel",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3616,7 +3616,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_039_EN.webp"
   },
   {
-    "id": "a2-040",
+    "id": "A2-040",
     "name": "Shellos",
     "rarity": "◊",
     "pack": "Palkia",
@@ -3624,7 +3624,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_040_EN.webp"
   },
   {
-    "id": "a2-041",
+    "id": "A2-041",
     "name": "Gastrodon",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -3632,7 +3632,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_041_EN.webp"
   },
   {
-    "id": "a2-042",
+    "id": "A2-042",
     "name": "Finneon",
     "rarity": "◊",
     "pack": "Every",
@@ -3640,7 +3640,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_042_EN.webp"
   },
   {
-    "id": "a2-043",
+    "id": "A2-043",
     "name": "Lumineon",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3648,7 +3648,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_043_EN.webp"
   },
   {
-    "id": "a2-044",
+    "id": "A2-044",
     "name": "Snover",
     "rarity": "◊",
     "pack": "Every",
@@ -3656,7 +3656,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_044_EN.webp"
   },
   {
-    "id": "a2-045",
+    "id": "A2-045",
     "name": "Abomasnow",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3664,7 +3664,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_045_EN.webp"
   },
   {
-    "id": "a2-046",
+    "id": "A2-046",
     "name": "Glaceon",
     "rarity": "◊◊◊",
     "pack": "Palkia",
@@ -3672,7 +3672,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_046_EN.webp"
   },
   {
-    "id": "a2-047",
+    "id": "A2-047",
     "name": "Wash Rotom",
     "rarity": "◊",
     "pack": "Every",
@@ -3680,7 +3680,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_047_EN.webp"
   },
   {
-    "id": "a2-048",
+    "id": "A2-048",
     "name": "Frost Rotom",
     "rarity": "◊",
     "pack": "Every",
@@ -3688,7 +3688,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_048_EN.webp"
   },
   {
-    "id": "a2-049",
+    "id": "A2-049",
     "name": "Palkia ex",
     "rarity": "◊◊◊◊",
     "pack": "Palkia",
@@ -3696,7 +3696,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_049_EN.webp"
   },
   {
-    "id": "a2-050",
+    "id": "A2-050",
     "name": "Manaphy",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -3704,7 +3704,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_050_EN.webp"
   },
   {
-    "id": "a2-051",
+    "id": "A2-051",
     "name": "Magnemite",
     "rarity": "◊",
     "pack": "Every",
@@ -3712,7 +3712,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_051_EN.webp"
   },
   {
-    "id": "a2-052",
+    "id": "A2-052",
     "name": "Magneton",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3720,7 +3720,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_052_EN.webp"
   },
   {
-    "id": "a2-053",
+    "id": "A2-053",
     "name": "Magnezone",
     "rarity": "◊◊◊",
     "pack": "Every",
@@ -3728,7 +3728,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_053_EN.webp"
   },
   {
-    "id": "a2-054",
+    "id": "A2-054",
     "name": "Voltorb",
     "rarity": "◊",
     "pack": "Every",
@@ -3736,7 +3736,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_054_EN.webp"
   },
   {
-    "id": "a2-055",
+    "id": "A2-055",
     "name": "Electrode",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3744,7 +3744,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_055_EN.webp"
   },
   {
-    "id": "a2-056",
+    "id": "A2-056",
     "name": "Electabuzz",
     "rarity": "◊",
     "pack": "Dialga",
@@ -3752,7 +3752,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_056_EN.webp"
   },
   {
-    "id": "a2-057",
+    "id": "A2-057",
     "name": "Electivire",
     "rarity": "◊◊◊",
     "pack": "Dialga",
@@ -3760,7 +3760,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_057_EN.webp"
   },
   {
-    "id": "a2-058",
+    "id": "A2-058",
     "name": "Shinx",
     "rarity": "◊",
     "pack": "Dialga",
@@ -3768,7 +3768,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_058_EN.webp"
   },
   {
-    "id": "a2-059",
+    "id": "A2-059",
     "name": "Luxio",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -3776,7 +3776,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_059_EN.webp"
   },
   {
-    "id": "a2-060",
+    "id": "A2-060",
     "name": "Luxray",
     "rarity": "◊◊◊",
     "pack": "Dialga",
@@ -3784,7 +3784,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_060_EN.webp"
   },
   {
-    "id": "a2-061",
+    "id": "A2-061",
     "name": "Pachirisu ex",
     "rarity": "◊◊◊◊",
     "pack": "Dialga",
@@ -3792,7 +3792,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_061_EN.webp"
   },
   {
-    "id": "a2-062",
+    "id": "A2-062",
     "name": "Rotom",
     "rarity": "◊",
     "pack": "Palkia",
@@ -3800,7 +3800,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_062_EN.webp"
   },
   {
-    "id": "a2-063",
+    "id": "A2-063",
     "name": "Togepi",
     "rarity": "◊",
     "pack": "Every",
@@ -3808,7 +3808,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_063_EN.webp"
   },
   {
-    "id": "a2-064",
+    "id": "A2-064",
     "name": "Togetic",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3816,7 +3816,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_064_EN.webp"
   },
   {
-    "id": "a2-065",
+    "id": "A2-065",
     "name": "Togekiss",
     "rarity": "◊◊◊",
     "pack": "Every",
@@ -3824,7 +3824,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_065_EN.webp"
   },
   {
-    "id": "a2-066",
+    "id": "A2-066",
     "name": "Misdreavus",
     "rarity": "◊",
     "pack": "Palkia",
@@ -3832,7 +3832,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_066_EN.webp"
   },
   {
-    "id": "a2-067",
+    "id": "A2-067",
     "name": "Mismagius ex",
     "rarity": "◊◊◊◊",
     "pack": "Palkia",
@@ -3840,7 +3840,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_067_EN.webp"
   },
   {
-    "id": "a2-068",
+    "id": "A2-068",
     "name": "Ralts",
     "rarity": "◊",
     "pack": "Dialga",
@@ -3848,7 +3848,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_068_EN.webp"
   },
   {
-    "id": "a2-069",
+    "id": "A2-069",
     "name": "Kirlia",
     "rarity": "◊",
     "pack": "Dialga",
@@ -3856,7 +3856,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_069_EN.webp"
   },
   {
-    "id": "a2-070",
+    "id": "A2-070",
     "name": "Duskull",
     "rarity": "◊",
     "pack": "Dialga",
@@ -3864,7 +3864,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_070_EN.webp"
   },
   {
-    "id": "a2-071",
+    "id": "A2-071",
     "name": "Dusclops",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -3872,7 +3872,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_071_EN.webp"
   },
   {
-    "id": "a2-072",
+    "id": "A2-072",
     "name": "Dusknoir",
     "rarity": "◊◊◊",
     "pack": "Dialga",
@@ -3880,7 +3880,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_072_EN.webp"
   },
   {
-    "id": "a2-073",
+    "id": "A2-073",
     "name": "Drifloon",
     "rarity": "◊",
     "pack": "Dialga",
@@ -3888,7 +3888,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_073_EN.webp"
   },
   {
-    "id": "a2-074",
+    "id": "A2-074",
     "name": "Drifblim",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -3896,7 +3896,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_074_EN.webp"
   },
   {
-    "id": "a2-075",
+    "id": "A2-075",
     "name": "Uxie",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3904,7 +3904,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_075_EN.webp"
   },
   {
-    "id": "a2-076",
+    "id": "A2-076",
     "name": "Mesprit",
     "rarity": "◊◊◊",
     "pack": "Every",
@@ -3912,7 +3912,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_076_EN.webp"
   },
   {
-    "id": "a2-077",
+    "id": "A2-077",
     "name": "Azelf",
     "rarity": "◊◊",
     "pack": "Every",
@@ -3920,7 +3920,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_077_EN.webp"
   },
   {
-    "id": "a2-078",
+    "id": "A2-078",
     "name": "Giratina",
     "rarity": "◊◊◊",
     "pack": "Palkia",
@@ -3928,7 +3928,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_078_EN.webp"
   },
   {
-    "id": "a2-079",
+    "id": "A2-079",
     "name": "Cresselia",
     "rarity": "◊◊◊",
     "pack": "Palkia",
@@ -3936,7 +3936,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_079_EN.webp"
   },
   {
-    "id": "a2-080",
+    "id": "A2-080",
     "name": "Rhyhorn",
     "rarity": "◊",
     "pack": "Palkia",
@@ -3944,7 +3944,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_080_EN.webp"
   },
   {
-    "id": "a2-081",
+    "id": "A2-081",
     "name": "Rhydon",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -3952,7 +3952,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_081_EN.webp"
   },
   {
-    "id": "a2-082",
+    "id": "A2-082",
     "name": "Rhyperior",
     "rarity": "◊◊◊",
     "pack": "Palkia",
@@ -3960,7 +3960,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_082_EN.webp"
   },
   {
-    "id": "a2-083",
+    "id": "A2-083",
     "name": "Gligar",
     "rarity": "◊",
     "pack": "Dialga",
@@ -3968,7 +3968,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_083_EN.webp"
   },
   {
-    "id": "a2-084",
+    "id": "A2-084",
     "name": "Gliscor",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -3976,7 +3976,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_084_EN.webp"
   },
   {
-    "id": "a2-085",
+    "id": "A2-085",
     "name": "Hitmontop",
     "rarity": "◊",
     "pack": "Dialga",
@@ -3984,7 +3984,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_085_EN.webp"
   },
   {
-    "id": "a2-086",
+    "id": "A2-086",
     "name": "Nosepass",
     "rarity": "◊",
     "pack": "Every",
@@ -3992,7 +3992,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_086_EN.webp"
   },
   {
-    "id": "a2-087",
+    "id": "A2-087",
     "name": "Regirock",
     "rarity": "◊◊",
     "pack": "Every",
@@ -4000,7 +4000,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_087_EN.webp"
   },
   {
-    "id": "a2-088",
+    "id": "A2-088",
     "name": "Cranidos",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -4008,7 +4008,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_088_EN.webp"
   },
   {
-    "id": "a2-089",
+    "id": "A2-089",
     "name": "Rampardos",
     "rarity": "◊◊◊",
     "pack": "Dialga",
@@ -4016,7 +4016,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_089_EN.webp"
   },
   {
-    "id": "a2-090",
+    "id": "A2-090",
     "name": "Wormadam",
     "rarity": "◊",
     "pack": "Dialga",
@@ -4024,7 +4024,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_090_EN.webp"
   },
   {
-    "id": "a2-091",
+    "id": "A2-091",
     "name": "Riolu",
     "rarity": "◊",
     "pack": "Dialga",
@@ -4032,7 +4032,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_091_EN.webp"
   },
   {
-    "id": "a2-092",
+    "id": "A2-092",
     "name": "Lucario",
     "rarity": "◊◊◊",
     "pack": "Dialga",
@@ -4040,7 +4040,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_092_EN.webp"
   },
   {
-    "id": "a2-093",
+    "id": "A2-093",
     "name": "Hippopotas",
     "rarity": "◊",
     "pack": "Palkia",
@@ -4048,7 +4048,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_093_EN.webp"
   },
   {
-    "id": "a2-094",
+    "id": "A2-094",
     "name": "Hippowdon",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -4056,7 +4056,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_094_EN.webp"
   },
   {
-    "id": "a2-095",
+    "id": "A2-095",
     "name": "Gallade ex",
     "rarity": "◊◊◊◊",
     "pack": "Dialga",
@@ -4064,7 +4064,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_095_EN.webp"
   },
   {
-    "id": "a2-096",
+    "id": "A2-096",
     "name": "Murkrow",
     "rarity": "◊",
     "pack": "Dialga",
@@ -4072,7 +4072,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_096_EN.webp"
   },
   {
-    "id": "a2-097",
+    "id": "A2-097",
     "name": "Honchkrow",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -4080,7 +4080,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_097_EN.webp"
   },
   {
-    "id": "a2-098",
+    "id": "A2-098",
     "name": "Sneasel",
     "rarity": "◊",
     "pack": "Palkia",
@@ -4088,7 +4088,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_098_EN.webp"
   },
   {
-    "id": "a2-099",
+    "id": "A2-099",
     "name": "Weavile ex",
     "rarity": "◊◊◊◊",
     "pack": "Palkia",
@@ -4096,7 +4096,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_099_EN.webp"
   },
   {
-    "id": "a2-100",
+    "id": "A2-100",
     "name": "Poochyena",
     "rarity": "◊",
     "pack": "Every",
@@ -4104,7 +4104,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_100_EN.webp"
   },
   {
-    "id": "a2-101",
+    "id": "A2-101",
     "name": "Mightyena",
     "rarity": "◊◊",
     "pack": "Every",
@@ -4112,7 +4112,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_101_EN.webp"
   },
   {
-    "id": "a2-102",
+    "id": "A2-102",
     "name": "Stunky",
     "rarity": "◊",
     "pack": "Dialga",
@@ -4120,7 +4120,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_102_EN.webp"
   },
   {
-    "id": "a2-103",
+    "id": "A2-103",
     "name": "Skuntank",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -4128,7 +4128,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_103_EN.webp"
   },
   {
-    "id": "a2-104",
+    "id": "A2-104",
     "name": "Spiritomb",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -4136,7 +4136,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_104_EN.webp"
   },
   {
-    "id": "a2-105",
+    "id": "A2-105",
     "name": "Skorupi",
     "rarity": "◊",
     "pack": "Every",
@@ -4144,7 +4144,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_105_EN.webp"
   },
   {
-    "id": "a2-106",
+    "id": "A2-106",
     "name": "Drapion",
     "rarity": "◊◊",
     "pack": "Every",
@@ -4152,7 +4152,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_106_EN.webp"
   },
   {
-    "id": "a2-107",
+    "id": "A2-107",
     "name": "Croagunk",
     "rarity": "◊",
     "pack": "Dialga",
@@ -4160,7 +4160,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_107_EN.webp"
   },
   {
-    "id": "a2-108",
+    "id": "A2-108",
     "name": "Toxicroak",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -4168,7 +4168,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_108_EN.webp"
   },
   {
-    "id": "a2-109",
+    "id": "A2-109",
     "name": "Darkrai",
     "rarity": "◊◊◊",
     "pack": "Dialga",
@@ -4176,7 +4176,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_109_EN.webp"
   },
   {
-    "id": "a2-110",
+    "id": "A2-110",
     "name": "Darkrai ex",
     "rarity": "◊◊◊◊",
     "pack": "Dialga",
@@ -4184,7 +4184,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_110_EN.webp"
   },
   {
-    "id": "a2-111",
+    "id": "A2-111",
     "name": "Skarmory",
     "rarity": "◊◊",
     "pack": "Every",
@@ -4192,7 +4192,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_111_EN.webp"
   },
   {
-    "id": "a2-112",
+    "id": "A2-112",
     "name": "Registeel",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -4200,7 +4200,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_112_EN.webp"
   },
   {
-    "id": "a2-113",
+    "id": "A2-113",
     "name": "Shieldon",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -4208,7 +4208,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_113_EN.webp"
   },
   {
-    "id": "a2-114",
+    "id": "A2-114",
     "name": "Bastiodon",
     "rarity": "◊◊◊",
     "pack": "Palkia",
@@ -4216,7 +4216,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_114_EN.webp"
   },
   {
-    "id": "a2-115",
+    "id": "A2-115",
     "name": "Wormadam",
     "rarity": "◊",
     "pack": "Palkia",
@@ -4224,7 +4224,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_115_EN.webp"
   },
   {
-    "id": "a2-116",
+    "id": "A2-116",
     "name": "Bronzor",
     "rarity": "◊",
     "pack": "Dialga",
@@ -4232,7 +4232,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_116_EN.webp"
   },
   {
-    "id": "a2-117",
+    "id": "A2-117",
     "name": "Bronzong",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -4240,7 +4240,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_117_EN.webp"
   },
   {
-    "id": "a2-118",
+    "id": "A2-118",
     "name": "Probopass",
     "rarity": "◊◊",
     "pack": "Every",
@@ -4248,7 +4248,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_118_EN.webp"
   },
   {
-    "id": "a2-119",
+    "id": "A2-119",
     "name": "Dialga ex",
     "rarity": "◊◊◊◊",
     "pack": "Dialga",
@@ -4256,7 +4256,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_119_EN.webp"
   },
   {
-    "id": "a2-120",
+    "id": "A2-120",
     "name": "Heatran",
     "rarity": "◊◊◊",
     "pack": "Dialga",
@@ -4264,7 +4264,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_120_EN.webp"
   },
   {
-    "id": "a2-121",
+    "id": "A2-121",
     "name": "Gible",
     "rarity": "◊",
     "pack": "Palkia",
@@ -4272,7 +4272,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_121_EN.webp"
   },
   {
-    "id": "a2-122",
+    "id": "A2-122",
     "name": "Gabite",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -4280,7 +4280,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_122_EN.webp"
   },
   {
-    "id": "a2-123",
+    "id": "A2-123",
     "name": "Garchomp",
     "rarity": "◊◊◊",
     "pack": "Palkia",
@@ -4288,7 +4288,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_123_EN.webp"
   },
   {
-    "id": "a2-124",
+    "id": "A2-124",
     "name": "Lickitung",
     "rarity": "◊",
     "pack": "Palkia",
@@ -4296,7 +4296,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_124_EN.webp"
   },
   {
-    "id": "a2-125",
+    "id": "A2-125",
     "name": "Lickilicky ex",
     "rarity": "◊◊◊◊",
     "pack": "Palkia",
@@ -4304,7 +4304,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_125_EN.webp"
   },
   {
-    "id": "a2-126",
+    "id": "A2-126",
     "name": "Eevee",
     "rarity": "◊",
     "pack": "Every",
@@ -4312,7 +4312,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_126_EN.webp"
   },
   {
-    "id": "a2-127",
+    "id": "A2-127",
     "name": "Porygon",
     "rarity": "◊",
     "pack": "Palkia",
@@ -4320,7 +4320,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_127_EN.webp"
   },
   {
-    "id": "a2-128",
+    "id": "A2-128",
     "name": "Porygon2",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -4328,7 +4328,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_128_EN.webp"
   },
   {
-    "id": "a2-129",
+    "id": "A2-129",
     "name": "Porygon-Z",
     "rarity": "◊◊◊",
     "pack": "Palkia",
@@ -4336,7 +4336,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_129_EN.webp"
   },
   {
-    "id": "a2-130",
+    "id": "A2-130",
     "name": "Aipom",
     "rarity": "◊",
     "pack": "Every",
@@ -4344,7 +4344,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_130_EN.webp"
   },
   {
-    "id": "a2-131",
+    "id": "A2-131",
     "name": "Ambipom",
     "rarity": "◊",
     "pack": "Every",
@@ -4352,7 +4352,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_131_EN.webp"
   },
   {
-    "id": "a2-132",
+    "id": "A2-132",
     "name": "Starly",
     "rarity": "◊",
     "pack": "Palkia",
@@ -4360,7 +4360,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_132_EN.webp"
   },
   {
-    "id": "a2-133",
+    "id": "A2-133",
     "name": "Staravia",
     "rarity": "◊",
     "pack": "Palkia",
@@ -4368,7 +4368,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_133_EN.webp"
   },
   {
-    "id": "a2-134",
+    "id": "A2-134",
     "name": "Staraptor",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -4376,7 +4376,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_134_EN.webp"
   },
   {
-    "id": "a2-135",
+    "id": "A2-135",
     "name": "Bidoof",
     "rarity": "◊",
     "pack": "Dialga",
@@ -4384,7 +4384,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_135_EN.webp"
   },
   {
-    "id": "a2-136",
+    "id": "A2-136",
     "name": "Bibarel",
     "rarity": "◊",
     "pack": "Dialga",
@@ -4392,7 +4392,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_136_EN.webp"
   },
   {
-    "id": "a2-137",
+    "id": "A2-137",
     "name": "Buneary",
     "rarity": "◊",
     "pack": "Dialga",
@@ -4400,7 +4400,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_137_EN.webp"
   },
   {
-    "id": "a2-138",
+    "id": "A2-138",
     "name": "Lopunny",
     "rarity": "◊",
     "pack": "Dialga",
@@ -4408,7 +4408,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_138_EN.webp"
   },
   {
-    "id": "a2-139",
+    "id": "A2-139",
     "name": "Glameow",
     "rarity": "◊",
     "pack": "Palkia",
@@ -4416,7 +4416,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_139_EN.webp"
   },
   {
-    "id": "a2-140",
+    "id": "A2-140",
     "name": "Purugly",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -4424,7 +4424,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_140_EN.webp"
   },
   {
-    "id": "a2-141",
+    "id": "A2-141",
     "name": "Chatot",
     "rarity": "◊",
     "pack": "Palkia",
@@ -4432,7 +4432,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_141_EN.webp"
   },
   {
-    "id": "a2-142",
+    "id": "A2-142",
     "name": "Fan Rotom",
     "rarity": "◊",
     "pack": "Every",
@@ -4440,7 +4440,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_142_EN.webp"
   },
   {
-    "id": "a2-143",
+    "id": "A2-143",
     "name": "Regigigas",
     "rarity": "◊◊◊",
     "pack": "Every",
@@ -4448,7 +4448,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_143_EN.webp"
   },
   {
-    "id": "a2-144",
+    "id": "A2-144",
     "name": "Skull Fossil",
     "rarity": "◊",
     "pack": "Dialga",
@@ -4456,7 +4456,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_144_EN.webp"
   },
   {
-    "id": "a2-145",
+    "id": "A2-145",
     "name": "Armor Fossil",
     "rarity": "◊",
     "pack": "Palkia",
@@ -4464,7 +4464,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_145_EN.webp"
   },
   {
-    "id": "a2-146",
+    "id": "A2-146",
     "name": "Pokémon Communication",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -4472,7 +4472,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_146_EN.webp"
   },
   {
-    "id": "a2-147",
+    "id": "A2-147",
     "name": "Giant Cape",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -4480,7 +4480,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_147_EN.webp"
   },
   {
-    "id": "a2-148",
+    "id": "A2-148",
     "name": "Rocky Helmet",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -4488,7 +4488,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_148_EN.webp"
   },
   {
-    "id": "a2-149",
+    "id": "A2-149",
     "name": "Lum Berry",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -4496,7 +4496,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_149_EN.webp"
   },
   {
-    "id": "a2-150",
+    "id": "A2-150",
     "name": "Cyrus",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -4504,7 +4504,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_150_EN.webp"
   },
   {
-    "id": "a2-151",
+    "id": "A2-151",
     "name": "Team Galactic Grunt",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -4512,7 +4512,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_151_EN.webp"
   },
   {
-    "id": "a2-152",
+    "id": "A2-152",
     "name": "Cynthia",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -4520,7 +4520,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_152_EN.webp"
   },
   {
-    "id": "a2-153",
+    "id": "A2-153",
     "name": "Volkner",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -4528,7 +4528,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_153_EN.webp"
   },
   {
-    "id": "a2-154",
+    "id": "A2-154",
     "name": "Dawn",
     "rarity": "◊◊",
     "pack": "Dialga",
@@ -4536,7 +4536,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_154_EN.webp"
   },
   {
-    "id": "a2-155",
+    "id": "A2-155",
     "name": "Mars",
     "rarity": "◊◊",
     "pack": "Palkia",
@@ -4544,7 +4544,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_155_EN.webp"
   },
   {
-    "id": "a2-156",
+    "id": "A2-156",
     "name": "Tangrowth",
     "rarity": "☆",
     "pack": "Dialga",
@@ -4552,7 +4552,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_156_EN.webp"
   },
   {
-    "id": "a2-157",
+    "id": "A2-157",
     "name": "Combee",
     "rarity": "☆",
     "pack": "Dialga",
@@ -4560,7 +4560,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_157_EN.webp"
   },
   {
-    "id": "a2-158",
+    "id": "A2-158",
     "name": "Carnivine",
     "rarity": "☆",
     "pack": "Palkia",
@@ -4568,7 +4568,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_158_EN.webp"
   },
   {
-    "id": "a2-159",
+    "id": "A2-159",
     "name": "Shaymin",
     "rarity": "☆",
     "pack": "Dialga",
@@ -4576,7 +4576,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_159_EN.webp"
   },
   {
-    "id": "a2-160",
+    "id": "A2-160",
     "name": "Mamoswine",
     "rarity": "☆",
     "pack": "Dialga",
@@ -4584,7 +4584,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_160_EN.webp"
   },
   {
-    "id": "a2-161",
+    "id": "A2-161",
     "name": "Gastrodon",
     "rarity": "☆",
     "pack": "Palkia",
@@ -4592,7 +4592,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_161_EN.webp"
   },
   {
-    "id": "a2-162",
+    "id": "A2-162",
     "name": "Manaphy",
     "rarity": "☆",
     "pack": "Palkia",
@@ -4600,7 +4600,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_162_EN.webp"
   },
   {
-    "id": "a2-163",
+    "id": "A2-163",
     "name": "Shinx",
     "rarity": "☆",
     "pack": "Dialga",
@@ -4608,7 +4608,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_163_EN.webp"
   },
   {
-    "id": "a2-164",
+    "id": "A2-164",
     "name": "Rotom",
     "rarity": "☆",
     "pack": "Palkia",
@@ -4616,7 +4616,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_164_EN.webp"
   },
   {
-    "id": "a2-165",
+    "id": "A2-165",
     "name": "Drifloon",
     "rarity": "☆",
     "pack": "Dialga",
@@ -4624,7 +4624,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_165_EN.webp"
   },
   {
-    "id": "a2-166",
+    "id": "A2-166",
     "name": "Mesprit",
     "rarity": "☆",
     "pack": "Dialga",
@@ -4632,7 +4632,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_166_EN.webp"
   },
   {
-    "id": "a2-167",
+    "id": "A2-167",
     "name": "Giratina",
     "rarity": "☆",
     "pack": "Palkia",
@@ -4640,7 +4640,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_167_EN.webp"
   },
   {
-    "id": "a2-168",
+    "id": "A2-168",
     "name": "Cresselia",
     "rarity": "☆",
     "pack": "Palkia",
@@ -4648,7 +4648,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_168_EN.webp"
   },
   {
-    "id": "a2-169",
+    "id": "A2-169",
     "name": "Rhyperior",
     "rarity": "☆",
     "pack": "Palkia",
@@ -4656,7 +4656,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_169_EN.webp"
   },
   {
-    "id": "a2-170",
+    "id": "A2-170",
     "name": "Lucario",
     "rarity": "☆",
     "pack": "Dialga",
@@ -4664,7 +4664,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_170_EN.webp"
   },
   {
-    "id": "a2-171",
+    "id": "A2-171",
     "name": "Hippopotas",
     "rarity": "☆",
     "pack": "Palkia",
@@ -4672,7 +4672,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_171_EN.webp"
   },
   {
-    "id": "a2-172",
+    "id": "A2-172",
     "name": "Spiritomb",
     "rarity": "☆",
     "pack": "Palkia",
@@ -4680,7 +4680,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_172_EN.webp"
   },
   {
-    "id": "a2-173",
+    "id": "A2-173",
     "name": "Croagunk",
     "rarity": "☆",
     "pack": "Dialga",
@@ -4688,7 +4688,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_173_EN.webp"
   },
   {
-    "id": "a2-174",
+    "id": "A2-174",
     "name": "Heatran",
     "rarity": "☆",
     "pack": "Dialga",
@@ -4696,7 +4696,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_174_EN.webp"
   },
   {
-    "id": "a2-175",
+    "id": "A2-175",
     "name": "Garchomp",
     "rarity": "☆",
     "pack": "Palkia",
@@ -4704,7 +4704,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_175_EN.webp"
   },
   {
-    "id": "a2-176",
+    "id": "A2-176",
     "name": "Staraptor",
     "rarity": "☆",
     "pack": "Palkia",
@@ -4712,7 +4712,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_176_EN.webp"
   },
   {
-    "id": "a2-177",
+    "id": "A2-177",
     "name": "Bidoof",
     "rarity": "☆",
     "pack": "Dialga",
@@ -4720,7 +4720,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_177_EN.webp"
   },
   {
-    "id": "a2-178",
+    "id": "A2-178",
     "name": "Glameow",
     "rarity": "☆",
     "pack": "Palkia",
@@ -4728,7 +4728,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_178_EN.webp"
   },
   {
-    "id": "a2-179",
+    "id": "A2-179",
     "name": "Regigigas",
     "rarity": "☆",
     "pack": "Dialga",
@@ -4736,7 +4736,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_179_EN.webp"
   },
   {
-    "id": "a2-180",
+    "id": "A2-180",
     "name": "Yanmega ex",
     "rarity": "☆☆",
     "pack": "Dialga",
@@ -4744,7 +4744,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_180_EN.webp"
   },
   {
-    "id": "a2-181",
+    "id": "A2-181",
     "name": "Infernape ex",
     "rarity": "☆☆",
     "pack": "Palkia",
@@ -4752,7 +4752,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_181_EN.webp"
   },
   {
-    "id": "a2-182",
+    "id": "A2-182",
     "name": "Palkia ex",
     "rarity": "☆☆",
     "pack": "Palkia",
@@ -4760,7 +4760,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_182_EN.webp"
   },
   {
-    "id": "a2-183",
+    "id": "A2-183",
     "name": "Pachirisu ex",
     "rarity": "☆☆",
     "pack": "Dialga",
@@ -4768,7 +4768,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_183_EN.webp"
   },
   {
-    "id": "a2-184",
+    "id": "A2-184",
     "name": "Mismagius ex",
     "rarity": "☆☆",
     "pack": "Palkia",
@@ -4776,7 +4776,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_184_EN.webp"
   },
   {
-    "id": "a2-185",
+    "id": "A2-185",
     "name": "Gallade ex",
     "rarity": "☆☆",
     "pack": "Dialga",
@@ -4784,7 +4784,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_185_EN.webp"
   },
   {
-    "id": "a2-186",
+    "id": "A2-186",
     "name": "Weavile ex",
     "rarity": "☆☆",
     "pack": "Palkia",
@@ -4792,7 +4792,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_186_EN.webp"
   },
   {
-    "id": "a2-187",
+    "id": "A2-187",
     "name": "Darkrai ex",
     "rarity": "☆☆",
     "pack": "Dialga",
@@ -4800,7 +4800,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_187_EN.webp"
   },
   {
-    "id": "a2-188",
+    "id": "A2-188",
     "name": "Dialga ex",
     "rarity": "☆☆",
     "pack": "Dialga",
@@ -4808,7 +4808,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_188_EN.webp"
   },
   {
-    "id": "a2-189",
+    "id": "A2-189",
     "name": "Lickilicky ex",
     "rarity": "☆☆",
     "pack": "Palkia",
@@ -4816,7 +4816,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_189_EN.webp"
   },
   {
-    "id": "a2-190",
+    "id": "A2-190",
     "name": "Cyrus",
     "rarity": "☆☆",
     "pack": "Palkia",
@@ -4824,7 +4824,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_190_EN.webp"
   },
   {
-    "id": "a2-191",
+    "id": "A2-191",
     "name": "Team Galactic Grunt",
     "rarity": "☆☆",
     "pack": "Dialga",
@@ -4832,7 +4832,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_191_EN.webp"
   },
   {
-    "id": "a2-192",
+    "id": "A2-192",
     "name": "Cynthia",
     "rarity": "☆☆",
     "pack": "Palkia",
@@ -4840,7 +4840,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_192_EN.webp"
   },
   {
-    "id": "a2-193",
+    "id": "A2-193",
     "name": "Volkner",
     "rarity": "☆☆",
     "pack": "Dialga",
@@ -4848,7 +4848,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_193_EN.webp"
   },
   {
-    "id": "a2-194",
+    "id": "A2-194",
     "name": "Dawn",
     "rarity": "☆☆",
     "pack": "Dialga",
@@ -4856,7 +4856,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_194_EN.webp"
   },
   {
-    "id": "a2-195",
+    "id": "A2-195",
     "name": "Mars",
     "rarity": "☆☆",
     "pack": "Palkia",
@@ -4864,7 +4864,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_195_EN.webp"
   },
   {
-    "id": "a2-196",
+    "id": "A2-196",
     "name": "Yanmega ex",
     "rarity": "☆☆",
     "pack": "Dialga",
@@ -4872,7 +4872,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_196_EN.webp"
   },
   {
-    "id": "a2-197",
+    "id": "A2-197",
     "name": "Infernape ex",
     "rarity": "☆☆",
     "pack": "Palkia",
@@ -4880,7 +4880,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_197_EN.webp"
   },
   {
-    "id": "a2-198",
+    "id": "A2-198",
     "name": "Pachirisu ex",
     "rarity": "☆☆",
     "pack": "Dialga",
@@ -4888,7 +4888,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_198_EN.webp"
   },
   {
-    "id": "a2-199",
+    "id": "A2-199",
     "name": "Mismagius ex",
     "rarity": "☆☆",
     "pack": "Palkia",
@@ -4896,7 +4896,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_199_EN.webp"
   },
   {
-    "id": "a2-200",
+    "id": "A2-200",
     "name": "Gallade ex",
     "rarity": "☆☆",
     "pack": "Dialga",
@@ -4904,7 +4904,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_200_EN.webp"
   },
   {
-    "id": "a2-201",
+    "id": "A2-201",
     "name": "Weavile ex",
     "rarity": "☆☆",
     "pack": "Palkia",
@@ -4912,7 +4912,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_201_EN.webp"
   },
   {
-    "id": "a2-202",
+    "id": "A2-202",
     "name": "Darkrai ex",
     "rarity": "☆☆",
     "pack": "Dialga",
@@ -4920,7 +4920,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_202_EN.webp"
   },
   {
-    "id": "a2-203",
+    "id": "A2-203",
     "name": "Lickilicky ex",
     "rarity": "☆☆",
     "pack": "Palkia",
@@ -4928,7 +4928,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_203_EN.webp"
   },
   {
-    "id": "a2-204",
+    "id": "A2-204",
     "name": "Palkia ex",
     "rarity": "☆☆☆",
     "pack": "Palkia",
@@ -4936,7 +4936,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_204_EN.webp"
   },
   {
-    "id": "a2-205",
+    "id": "A2-205",
     "name": "Dialga ex",
     "rarity": "☆☆☆",
     "pack": "Dialga",
@@ -4944,7 +4944,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_205_EN.webp"
   },
   {
-    "id": "a2-206",
+    "id": "A2-206",
     "name": "Palkia ex",
     "rarity": "♕",
     "pack": "Every",
@@ -4952,7 +4952,7 @@
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_206_EN.webp"
   },
   {
-    "id": "a2-207",
+    "id": "A2-207",
     "name": "Dialga ex",
     "rarity": "♕",
     "pack": "Every",
