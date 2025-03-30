@@ -13,5 +13,5 @@ If there's anything missing or wrong, feel free to raise a PR.
 ## Data Source
 
 The source data is from [Limitless TCG](https://pocket.limitlesstcg.com/cards).  
-The souce data is downloaded using [Pokémon TCG Pocket Web Scraper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper).  
+The source data is downloaded using [Pokémon TCG Pocket Web Scraper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper).  
 And then transposed using `scripts/transpose-format.js`.
