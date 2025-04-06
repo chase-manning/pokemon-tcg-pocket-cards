@@ -18,34 +18,9 @@ And then transposed using `scripts/transpose-format.js`.
 
 ## Projects Using This API
 
-Here are some projects that use this Pokemon TCG Pocket Cards API:
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin-top: 2rem;">
-
-<a href="https://pocketdecks.top/" target="_blank">
-    <img width="calc(33% - 2rem)" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
-</a>
-
-<a href="https://pocketdecks.top/" target="_blank">
-    <img width="calc(33% - 2rem)" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
-</a>
-
-<a href="https://pocketdecks.top/" target="_blank">
-    <img width="calc(33% - 2rem)" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
-</a>
-
-<a href="https://pocketdecks.top/" target="_blank">
-    <img width="calc(33% - 2rem)" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
-</a>
-
-<a href="https://pocketdecks.top/" target="_blank">
-    <img width="calc(33% - 2rem)" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
-</a>
-
-<a href="https://pocketdecks.top/" target="_blank">
-    <img width="calc(33% - 2rem)" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
-</a>
-
-</div>
+- [Pocket Decks Top](https://pocketdecks.top/) A website showing a tier list of the best Pokemon TCG Pocket Decks based on tournaments resuts, updated weekly every Monday
+- [Pocket Card Collection](https://github.com/rhuangabrielsantos/pokemon-tcg-pocket-cards) A collection tracker that lets you save your cards across devices using Google Sign-in, showing your progress towards completing each pack's collection
+- [PTCGP Pack Opener](https://github.com/rohannishant/ptcgp-pack-opener) A website for simulating opening Pokemon TCG Pocket Packs
+- [All Your Poke Cards](https://github.com/manelbrioude/allyourpokecards) A site for showing info on all your Poke Cards
 
 If you've built something using this API, feel free to submit a PR to add it to this list!
