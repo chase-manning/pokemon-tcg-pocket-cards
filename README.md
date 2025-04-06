@@ -23,27 +23,27 @@ Here are some projects that use this Pokemon TCG Pocket Cards API:
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin-top: 2rem;">
 
 <a href="https://pocketdecks.top/" target="_blank">
-    <img width="1676" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
+    <img width="calc(33% - 2rem)" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
 </a>
 
 <a href="https://pocketdecks.top/" target="_blank">
-    <img width="1676" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
+    <img width="calc(33% - 2rem)" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
 </a>
 
 <a href="https://pocketdecks.top/" target="_blank">
-    <img width="1676" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
+    <img width="calc(33% - 2rem)" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
 </a>
 
 <a href="https://pocketdecks.top/" target="_blank">
-    <img width="1676" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
+    <img width="calc(33% - 2rem)" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
 </a>
 
 <a href="https://pocketdecks.top/" target="_blank">
-    <img width="1676" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
+    <img width="calc(33% - 2rem)" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
 </a>
 
 <a href="https://pocketdecks.top/" target="_blank">
-    <img width="1676" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
+    <img width="calc(33% - 2rem)" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
 </a>
 
 </div>
