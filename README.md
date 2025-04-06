@@ -20,31 +20,31 @@ And then transposed using `scripts/transpose-format.js`.
 
 Here are some projects that use this Pokemon TCG Pocket Cards API:
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin-top: 2rem;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin-top: 2rem;">
 
-<div style="display: flex; flex-direction: column; border: solid 1px red;">
+<a href="https://pocketdecks.top/" target="_blank">
+    <img width="1676" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
+</a>
 
-[Project Name 1](https://project1-url.com)
+<a href="https://pocketdecks.top/" target="_blank">
+    <img width="1676" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
+</a>
 
-![Project 1 Screenshot](https://via.placeholder.com/300x200)
+<a href="https://pocketdecks.top/" target="_blank">
+    <img width="1676" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
+</a>
 
-</div>
+<a href="https://pocketdecks.top/" target="_blank">
+    <img width="1676" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
+</a>
 
-<div style="display: flex; flex-direction: column; border: solid 1px red;">
+<a href="https://pocketdecks.top/" target="_blank">
+    <img width="1676" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
+</a>
 
-[Project Name 2](https://project2-url.com)
-
-![Project 2 Screenshot](https://via.placeholder.com/300x200)
-
-</div>
-
-<div style="display: flex; flex-direction: column; border: solid 1px red;">
-
-[Project Name 3](https://project3-url.com)
-
-![Project 3 Screenshot](https://via.placeholder.com/300x200)
-
-</div>
+<a href="https://pocketdecks.top/" target="_blank">
+    <img width="1676" alt="image" src="https://github.com/user-attachments/assets/1227c056-d448-498f-81a2-1f00c74df930" />
+</a>
 
 </div>
 
