@@ -18,7 +18,7 @@ And then transposed using `scripts/transpose-format.js`.
 
 ## Projects Using This API
 
-- [Pocket Decks Top](https://pocketdecks.top/) A website showing a tier list of the best Pokemon TCG Pocket Decks based on tournaments results, updated weekly every Monday
+- [Pocket Decks Top](https://pocketdecks.top/) A website showing a tier list of the best Pokemon TCG Pocket Decks based on tournament results, updated weekly every Monday
 - [Pocket Card Collection](https://github.com/rhuangabrielsantos/pokemon-tcg-pocket-cards) A collection tracker that lets you save your cards across devices using Google Sign-in, showing your progress towards completing each pack's collection
 - [PTCGP Pack Opener](https://github.com/rohannishant/ptcgp-pack-opener) A website for simulating opening Pokemon TCG Pocket Packs
 - [All Your Poke Cards](https://github.com/manelbrioude/allyourpokecards) A site for showing info on all your Poke Cards
