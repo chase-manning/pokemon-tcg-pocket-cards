@@ -78,8 +78,8 @@ def fetch_pack_name(card_id):
                     current_cards_in_volume += 1
 
                 return pack_name
-            return "null"
-        return "Unknown"
+            return "Error"
+        return "Error"
     else:
         title_tag = soup.find("title")
         if title_tag:
