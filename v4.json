@@ -3240,7 +3240,7 @@
     "pack": "Premium Missions",
     "health": "60",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_009_EN.webp",
-    "fullart": "No",
+    "fullart": "Yes",
     "ex": "No",
     "artist": "Atsushi Furusawa"
   },
@@ -3251,7 +3251,7 @@
     "pack": "Premium Missions",
     "health": "120",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_010_EN.webp",
-    "fullart": "No",
+    "fullart": "Yes",
     "ex": "No",
     "artist": "Krgc"
   },
@@ -3339,7 +3339,7 @@
     "pack": "Promo V2",
     "health": "160",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_018_EN.webp",
-    "fullart": "No",
+    "fullart": "Yes",
     "ex": "No",
     "artist": "Kuroimori"
   },
@@ -3427,7 +3427,7 @@
     "pack": "Campaign",
     "health": "60",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_026_EN.webp",
-    "fullart": "No",
+    "fullart": "Yes",
     "ex": "No",
     "artist": "Kouki Saitou"
   },
@@ -3460,7 +3460,7 @@
     "pack": "Promo V3",
     "health": "150",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_029_EN.webp",
-    "fullart": "No",
+    "fullart": "Yes",
     "ex": "No",
     "artist": "danciao"
   },
@@ -3515,7 +3515,7 @@
     "pack": "Premium Missions",
     "health": "60",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_034_EN.webp",
-    "fullart": "No",
+    "fullart": "Yes",
     "ex": "No",
     "artist": "Kariya"
   },
@@ -3647,7 +3647,7 @@
     "pack": "Promo V5",
     "health": "60",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_046_EN.webp",
-    "fullart": "No",
+    "fullart": "Yes",
     "ex": "No",
     "artist": "Uninori"
   },
@@ -3691,7 +3691,7 @@
     "pack": "Shop Bundle",
     "health": "150",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_050_EN.webp",
-    "fullart": "No",
+    "fullart": "Yes",
     "ex": "Yes",
     "artist": "PLANETA Mochizuki"
   },
@@ -3713,7 +3713,7 @@
     "pack": "Premium Missions",
     "health": "60",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_052_EN.webp",
-    "fullart": "No",
+    "fullart": "Yes",
     "ex": "No",
     "artist": "MINAMINAMI Take"
   },
@@ -3735,7 +3735,7 @@
     "pack": "Promo V6",
     "health": "140",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_054_EN.webp",
-    "fullart": "No",
+    "fullart": "Yes",
     "ex": "No",
     "artist": "REND"
   },
