@@ -19,6 +19,7 @@ set_mapping = {
     "Space-Time Smackdown  (A2)": "a2",
     "Triumphant Light  (A2a)": "a2a",
     "Shining Revelry  (A2b)": "a2b",
+    "Celestial Guardians  (A3)": "a3",
 }
 
 series_map = {
@@ -28,6 +29,7 @@ series_map = {
     "a2": {"endpoint": "A2?pack=0", "PacksNumber": 2},
     "a2a": {"endpoint": "A2a", "PacksNumber": 1},
     "a2b": {"endpoint": "A2b", "PacksNumber": 1},
+    "a3": {"endpoint": "A3?pack=0", "PacksNumber": 2}
 }
 
 
@@ -38,8 +40,10 @@ def get_id(data):
         raise ValueError(f"Set ID not found for {data['set_details']}")
     return f"{set_id}-{padded_id}"
 
+
 vx_counter = 1
 current_cards_in_volume = 0
+
 
 def fetch_pack_name(card_id):
     global vx_counter, current_cards_in_volume
@@ -66,7 +70,8 @@ def fetch_pack_name(card_id):
         card_prints_div = soup.find("div", class_="card-prints-current")
         if card_prints_div:
             text = card_prints_div.get_text(strip=True)
-            match = re.search(r"(Shop|Campaign|Missions|Premium Missions|Promo pack|Wonder Pick)", text)
+            match = re.search(
+                r"(Shop|Campaign|Missions|Premium Missions|Promo pack|Wonder Pick)", text)
             if match:
                 pack_name = match.group(0)
                 print(f"✅ Pack Found: {pack_name}")
@@ -92,7 +97,8 @@ def fetch_pack_name(card_id):
 
 
 def main():
-    input_file_path = os.path.join(os.path.dirname(__file__), "pokemon_cards.json")
+    input_file_path = os.path.join(
+        os.path.dirname(__file__), "cards_data.json")
 
     print("📂 Lendo dados do arquivo local...")
     with open(input_file_path, "r", encoding="utf-8") as f:
@@ -133,6 +139,7 @@ def main():
     print("🔍 Corrigindo packs 'Every' com scraping...")
     correct_packs(output_path, output_path)
 
+
 def correct_packs(input_file, output_file):
     global vx_counter
     cards_with_null_pack = []
@@ -165,6 +172,7 @@ def correct_packs(input_file, output_file):
             print(f"- {card_id}")
     else:
         print("\n✅ Todos os packs foram corrigidos com sucesso.")
+
 
 if __name__ == "__main__":
     main()
