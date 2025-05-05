@@ -3795,6 +3795,161 @@
     "artist": "Akira Komayama"
   },
   {
+    "id": "pa-060",
+    "name": "Exeggcute",
+    "rarity": "Promo",
+    "pack": "Promo V7",
+    "health": "50",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_060_EN.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "0313"
+  },
+  {
+    "id": "pa-061",
+    "name": "Froakie",
+    "rarity": "Promo",
+    "pack": "Promo V7",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_061_EN.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Sanosuke Sakuma"
+  },
+  {
+    "id": "pa-062",
+    "name": "Farfetch'd",
+    "rarity": "Promo",
+    "pack": "Promo V7",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_062_EN.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Eri Yamaki"
+  },
+  {
+    "id": "pa-063",
+    "name": "Rayquaza",
+    "rarity": "Promo",
+    "pack": "Promo V7",
+    "health": "100",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_063_EN.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Yoshinobu Saito"
+  },
+  {
+    "id": "pa-064",
+    "name": "Rayquaza ex",
+    "rarity": "Promo",
+    "pack": "Promo V7",
+    "health": "140",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_064_EN.webp",
+    "fullart": "No",
+    "ex": "Yes",
+    "artist": "PLANETA CG Works"
+  },
+  {
+    "id": "pa-065",
+    "name": "Rayquaza ex",
+    "rarity": "Promo",
+    "pack": "Missions",
+    "health": "140",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_065_EN.webp",
+    "fullart": "No",
+    "ex": "Yes",
+    "artist": "PLANETA CG Works"
+  },
+  {
+    "id": "pa-066",
+    "name": "Mimikyu",
+    "rarity": "Promo",
+    "pack": "Premium Missions",
+    "health": "70",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_066_EN.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Amelicart"
+  },
+  {
+    "id": "pa-067",
+    "name": "Cosmog",
+    "rarity": "Promo",
+    "pack": "Promo V8",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_067_EN.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Mizue"
+  },
+  {
+    "id": "pa-068",
+    "name": "Lycanroc",
+    "rarity": "Promo",
+    "pack": "Promo V8",
+    "health": "100",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_068_EN.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Ryuta Fuse"
+  },
+  {
+    "id": "pa-069",
+    "name": "Alolan Exeggutor",
+    "rarity": "Promo",
+    "pack": "Promo V8",
+    "health": "150",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_069_EN.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Satoshi Shirai"
+  },
+  {
+    "id": "pa-070",
+    "name": "Alolan Ninetales",
+    "rarity": "Promo",
+    "pack": "Promo V8",
+    "health": "110",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_070_EN.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "tono"
+  },
+  {
+    "id": "pa-071",
+    "name": "Crabrawler",
+    "rarity": "Promo",
+    "pack": "Promo V8",
+    "health": "70",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_071_EN.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Miki Tanaka"
+  },
+  {
+    "id": "pa-072",
+    "name": "Alolan Grimer",
+    "rarity": "Promo",
+    "pack": "Wonder Pick",
+    "health": "70",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_072_EN.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Naoki Saito"
+  },
+  {
+    "id": "pa-073",
+    "name": "Toucannon",
+    "rarity": "Promo",
+    "pack": "Wonder Pick",
+    "health": "140",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_073_EN.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Sekio"
+  },
+
+  {
     "id": "a1a-001",
     "name": "Exeggcute",
     "rarity": "◊",
