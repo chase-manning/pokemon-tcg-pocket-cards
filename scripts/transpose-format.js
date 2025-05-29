@@ -12,6 +12,8 @@ const getId = (data) => {
     "Space-Time Smackdown  (A2)": "a2",
     "Triumphant Light  (A2a)": "a2a",
     "Shining Revelry  (A2b)": "a2b",
+    "Celestial Guardians  (A3)": "A3",
+    "Extradimensional Crisis  (A3a)": "A3a",
   };
   const setId = setMapping[data.set_details];
   if (!setId) throw new Error(`Set ID not found for ${data.set_details}`);
@@ -32,7 +34,19 @@ for (const card of inputList) {
   const fullart = card.fullart;
   const ex = card.ex;
   const artist = card.artist;
-  newCards.push({ id, name, rarity, pack, health, image, fullart, ex, artist });
+  const type = card.type;
+  newCards.push({
+    id,
+    name,
+    rarity,
+    pack,
+    health,
+    image,
+    fullart,
+    ex,
+    artist,
+    type,
+  });
 }
 
 const outputDir = "./scripts/pokemon_cards_transposed.json";
