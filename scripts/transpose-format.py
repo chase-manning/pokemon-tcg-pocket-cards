@@ -20,6 +20,7 @@ set_mapping = {
     "Triumphant Light  (A2a)": "a2a",
     "Shining Revelry  (A2b)": "a2b",
     "Celestial Guardians  (A3)": "a3",
+    "Extradimensional Crisis  (A3a)": "a3a",
 }
 
 series_map = {
@@ -29,7 +30,8 @@ series_map = {
     "a2": {"endpoint": "A2?pack=0", "PacksNumber": 2},
     "a2a": {"endpoint": "A2a", "PacksNumber": 1},
     "a2b": {"endpoint": "A2b", "PacksNumber": 1},
-    "a3": {"endpoint": "A3?pack=0", "PacksNumber": 2}
+    "a3": {"endpoint": "A3?pack=0", "PacksNumber": 2},
+    "a3a": {"endpoint": "A3a", "PacksNumber": 1},
 }
 
 
@@ -129,7 +131,8 @@ def main():
             "image": card.get("image"),
             "fullart": card.get("fullart"),
             "ex": card.get("ex"),
-            "artist": card.get("artist")
+            "artist": card.get("artist"),
+            "type": card.get("type"),
         })
 
     print(f"💾 Salvando JSON formatado em: {output_path}")
