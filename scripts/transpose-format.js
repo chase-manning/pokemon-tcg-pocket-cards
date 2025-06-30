@@ -14,6 +14,7 @@ const getId = (data) => {
     "Shining Revelry  (A2b)": "a2b",
     "Celestial Guardians  (A3)": "A3",
     "Extradimensional Crisis  (A3a)": "A3a",
+    "Eevee Grove  (A3b)": "A3b",
   };
   const setId = setMapping[data.set_details];
   if (!setId) throw new Error(`Set ID not found for ${data.set_details}`);
