@@ -21,6 +21,7 @@ set_mapping = {
     "Shining Revelry  (A2b)": "a2b",
     "Celestial Guardians  (A3)": "a3",
     "Extradimensional Crisis  (A3a)": "a3a",
+    "Eevee Grove  (A3b)": "a3b",
 }
 
 series_map = {
@@ -32,6 +33,7 @@ series_map = {
     "a2b": {"endpoint": "A2b", "PacksNumber": 1},
     "a3": {"endpoint": "A3?pack=0", "PacksNumber": 2},
     "a3a": {"endpoint": "A3a", "PacksNumber": 1},
+    "a3b": {"endpoint": "A3b", "PacksNumber": 1},
 }
 
 
@@ -102,11 +104,11 @@ def main():
     input_file_path = os.path.join(
         os.path.dirname(__file__), "cards_data.json")
 
-    print("📂 Lendo dados do arquivo local...")
+    print("📂 Reading data from local file...")
     with open(input_file_path, "r", encoding="utf-8") as f:
         input_list = json.load(f)
 
-    print("🔄 Formatando cards...")
+    print("🔄 Formatting cards...")
     new_cards = []
     for card in input_list:
         card_id = get_id(card)
@@ -135,11 +137,11 @@ def main():
             "type": card.get("type"),
         })
 
-    print(f"💾 Salvando JSON formatado em: {output_path}")
+    print(f"💾 Saving formatted JSON to: {output_path}")
     with open(output_path, "w", encoding="utf8") as f:
         json.dump(new_cards, f, ensure_ascii=False, indent=2)
 
-    print("🔍 Corrigindo packs 'Every' com scraping...")
+    print("🔍 Correcting 'Every' packs with scraping...")
     correct_packs(output_path, output_path)
 
 
@@ -159,7 +161,7 @@ def correct_packs(input_file, output_file):
                 new_pack = f"Promo V{vx_counter}"
 
             if new_pack != "Unknown" and new_pack != pack:
-                print(f"🔄 Atualizado {card_id}: {pack} ➝ {new_pack}")
+                print(f"🔄 Updated {card_id}: {pack} ➝ {new_pack}")
                 card["pack"] = new_pack
 
             if new_pack == "null":
@@ -167,14 +169,14 @@ def correct_packs(input_file, output_file):
 
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
-    print(f"\n✅ Arquivo final salvo em: {output_file}")
+    print(f"\n✅ Final file saved to: {output_file}")
 
     if cards_with_null_pack:
-        print("\n⚠️ Cards com 'null' no pack (ajuste manual necessário):")
+        print("\n⚠️ Cards with 'null' in pack (manual adjustment needed):")
         for card_id in cards_with_null_pack:
             print(f"- {card_id}")
     else:
-        print("\n✅ Todos os packs foram corrigidos com sucesso.")
+        print("\n✅ All packs were corrected successfully.")
 
 
 if __name__ == "__main__":
