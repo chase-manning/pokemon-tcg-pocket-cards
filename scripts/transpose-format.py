@@ -22,6 +22,7 @@ set_mapping = {
     "Celestial Guardians  (A3)": "a3",
     "Extradimensional Crisis  (A3a)": "a3a",
     "Eevee Grove  (A3b)": "a3b",
+    "Wisdom of Sea and Sky  (A4)": "a4",
 }
 
 series_map = {
@@ -34,6 +35,7 @@ series_map = {
     "a3": {"endpoint": "A3?pack=0", "PacksNumber": 2},
     "a3a": {"endpoint": "A3a", "PacksNumber": 1},
     "a3b": {"endpoint": "A3b", "PacksNumber": 1},
+    "a4": {"endpoint": "A4", "PacksNumber": 2},
 }
 
 
