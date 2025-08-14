@@ -18816,6 +18816,66 @@
     "type": "Colorless"
   },
   {
+    "id": "pa-093",
+    "name": "Cleffa",
+    "rarity": "Promo",
+    "pack": "Premium Missions",
+    "health": "30",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_093_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Tika Matsuno",
+    "type": "Psychic"
+  },
+  {
+    "id": "pa-094",
+    "name": "Horsea",
+    "rarity": "Promo",
+    "pack": "Promo V1",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_094_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Taira Akitsu",
+    "type": "Water"
+  },
+  {
+    "id": "pa-095",
+    "name": "Chinchou",
+    "rarity": "Promo",
+    "pack": "Promo V1",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_095_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Aya Kusube",
+    "type": "Lightning"
+  },
+  {
+    "id": "pa-096",
+    "name": "Houndoom",
+    "rarity": "Promo",
+    "pack": "Promo V1",
+    "health": "110",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_096_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Kagemaru Himeno",
+    "type": "Darkness"
+  },
+  {
+    "id": "pa-097",
+    "name": "Kangaskhan",
+    "rarity": "Promo",
+    "pack": "Promo V1",
+    "health": "100",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_097_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Kouki Saitou",
+    "type": "Colorless"
+  },
+  {
     "id": "pa-098",
     "name": "Blissey ex",
     "rarity": "Promo",
