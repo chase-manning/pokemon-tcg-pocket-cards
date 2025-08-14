@@ -18814,5 +18814,41 @@
     "ex": "Yes",
     "artist": "PLANETA CG Works",
     "type": "Colorless"
+  },
+  {
+    "id": "pa-098",
+    "name": "Blissey ex",
+    "rarity": "Promo",
+    "pack": "Promo V1",
+    "health": "180",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_098_EN_SM.webp",
+    "fullart": "No",
+    "ex": "Yes",
+    "artist": "PLANETA CG Works",
+    "type": "Colorless"
+  },
+  {
+    "id": "pa-099",
+    "name": "Marill",
+    "rarity": "Promo",
+    "pack": "Wonder Pick",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_099_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Shibuzoh.",
+    "type": "Water"
+  },
+  {
+    "id": "pa-100",
+    "name": "Weavile",
+    "rarity": "Promo",
+    "pack": "Wonder Pick",
+    "health": "80",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_100_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Satoshi Shirai",
+    "type": "Darkness"
   }
 ]
