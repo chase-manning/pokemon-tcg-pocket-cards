@@ -20170,5 +20170,101 @@
     "ex": "No",
     "artist": "PLANETA Tsuji",
     "type": "Water"
+  },
+  {
+    "id": "pa-101",
+    "name": "Latias",
+    "rarity": "Promo",
+    "pack": "Premium Missions",
+    "health": "90",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_101_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Yuu Nishida",
+    "type": "Psychic"
+  },
+  {
+    "id": "pa-102",
+    "name": "Tropius",
+    "rarity": "Promo",
+    "pack": "Promo V12",
+    "health": "100",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_102_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "sowsow",
+    "type": "Grass"
+  },
+  {
+    "id": "pa-103",
+    "name": "Poliwag",
+    "rarity": "Promo",
+    "pack": "Promo V12",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_103_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "MAHOU",
+    "type": "Water"
+  },
+  {
+    "id": "pa-104",
+    "name": "Milotic",
+    "rarity": "Promo",
+    "pack": "Promo V12",
+    "health": "120",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_104_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Hajime Kusajima",
+    "type": "Water"
+  },
+  {
+    "id": "pa-105",
+    "name": "Zorua",
+    "rarity": "Promo",
+    "pack": "Promo V13",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_105_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Naoyo Kimura",
+    "type": "Darkness"
+  },
+  {
+    "id": "pa-106",
+    "name": "Zoroark",
+    "rarity": "Promo",
+    "pack": "Promo V13",
+    "health": "100",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_106_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "matazo",
+    "type": "Darkness"
+  },
+  {
+    "id": "pa-107",
+    "name": "Miltank",
+    "rarity": "Promo",
+    "pack": "Wonder Pick",
+    "health": "110",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_107_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Kanako Eo",
+    "type": "Colorless"
+  },
+  {
+    "id": "pa-108",
+    "name": "Phanpy",
+    "rarity": "Promo",
+    "pack": "Wonder Pick",
+    "health": "70",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_108_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Asako Ito",
+    "type": "Fighting"
   }
 ]
