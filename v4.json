@@ -24814,5 +24814,113 @@
     "ex": "No",
     "artist": "Toyste Beach",
     "type": "Trainer"
+  },
+  {
+    "id": "pa-109",
+    "name": "Eevee ex",
+    "rarity": "Promo",
+    "pack": "Missions",
+    "health": "90",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_109_EN_SM.webp",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "artist": "Kanami Ogata",
+    "type": "Colorless"
+  },
+  {
+    "id": "pa-110",
+    "name": "Entei ex",
+    "rarity": "Promo",
+    "pack": "Premium Missions",
+    "health": "140",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_110_EN_SM.webp",
+    "fullart": "No",
+    "ex": "Yes",
+    "artist": "PLANETA Tsuji",
+    "type": "Fire"
+  },
+  {
+    "id": "pa-111",
+    "name": "Pikachu",
+    "rarity": "Promo",
+    "pack": "Promo V13",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_111_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "sui",
+    "type": "Lightning"
+  },
+  {
+    "id": "pa-112",
+    "name": "Raichu ex",
+    "rarity": "Promo",
+    "pack": "Promo V13",
+    "health": "140",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_112_EN_SM.webp",
+    "fullart": "No",
+    "ex": "Yes",
+    "artist": "PLANETA Mochizuki",
+    "type": "Lightning"
+  },
+  {
+    "id": "pa-113",
+    "name": "Mimikyu",
+    "rarity": "Promo",
+    "pack": "Promo V13",
+    "health": "70",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_113_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Yuka Morii",
+    "type": "Psychic"
+  },
+  {
+    "id": "pa-114",
+    "name": "Machamp",
+    "rarity": "Promo",
+    "pack": "Promo V14",
+    "health": "150",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_114_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Naoki Saito",
+    "type": "Fighting"
+  },
+  {
+    "id": "pa-115",
+    "name": "Regigigas",
+    "rarity": "Promo",
+    "pack": "Promo V14",
+    "health": "140",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_115_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Ryuta Fuse",
+    "type": "Colorless"
+  },
+  {
+    "id": "pa-116",
+    "name": "Shaymin",
+    "rarity": "Promo",
+    "pack": "Wonder Pick",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_116_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Sekio",
+    "type": "Grass"
+  },
+  {
+    "id": "pa-117",
+    "name": "Absol",
+    "rarity": "Promo",
+    "pack": "Wonder Pick",
+    "health": "80",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_117_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Eri Yamaki",
+    "type": "Darkness"
   }
 ]
