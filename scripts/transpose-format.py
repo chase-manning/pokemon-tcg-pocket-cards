@@ -25,6 +25,8 @@ set_mapping = {
     "Wisdom of Sea and Sky  (A4)": "a4",
     "Secluded Springs  (A4a)": "a4a",
     "Deluxe Pack: ex": "a4b",
+    "Mega Rising  (B1)": "b1",
+    "Promo-B": "pb",
 }
 
 series_map = {
@@ -40,6 +42,8 @@ series_map = {
     "a4": {"endpoint": "A4", "PacksNumber": 2},
     "a4a": {"endpoint": "A4a", "PacksNumber": 1},
     "a4b": {"endpoint": "A4b", "PacksNumber": 1},
+    "b1": {"endpoint": "B1", "PacksNumber": 3},
+    "pb": {"endpoint": "P-B", "PacksNumber": 3},
 }
 
 
