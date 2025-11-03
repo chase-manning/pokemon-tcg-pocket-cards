@@ -32,13 +32,18 @@
     ]
   },
   {
-    "id": "pa",
-    "name": "Promo-A",
+    "id": "promo",
+    "name": "Promo",
     "packs": [
       {
-        "id": "pa-logo",
-        "name": "Logo",
-        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/pa-logo.png"
+        "id": "promo-a",
+        "name": "Promo A",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/promo-a.png"
+      },
+      {
+        "id": "promo-b",
+        "name": "Promo B",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/promo-b.png"
       }
     ]
   },
@@ -169,17 +174,6 @@
         "id": "b1-megagyarados",
         "name": "Mega Gyarados",
         "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/b1-megagyarados.png"
-      }
-    ]
-  },
-  {
-    "id": "pb",
-    "name": "Promo-B",
-    "packs": [
-      {
-        "id": "pb-logo",
-        "name": "Logo",
-        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/pb-logo.png"
       }
     ]
   }
