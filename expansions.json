@@ -2,7 +2,6 @@
   {
     "id": "a1",
     "name": "Genetic Apex",
-    "isPromo": false,
     "packs": [
       {
         "id": "a1-pikachu",
@@ -24,7 +23,6 @@
   {
     "id": "a1a",
     "name": "Mythical Island",
-    "isPromo": false,
     "packs": [
       {
         "id": "a1a-mew",
@@ -36,7 +34,6 @@
   {
     "id": "pa",
     "name": "Promo-A",
-    "isPromo": true,
     "packs": [
       {
         "id": "pa-logo",
@@ -48,7 +45,6 @@
   {
     "id": "a2",
     "name": "Space-Time Smackdown",
-    "isPromo": false,
     "packs": [
       {
         "id": "a2-dialga",
@@ -65,7 +61,6 @@
   {
     "id": "a2a",
     "name": "Triumphant Light",
-    "isPromo": false,
     "packs": [
       {
         "id": "a2a-arceus",
@@ -77,7 +72,6 @@
   {
     "id": "a2b",
     "name": "Shining Revelry",
-    "isPromo": false,
     "packs": [
       {
         "id": "a2b-booster",
@@ -89,7 +83,6 @@
   {
     "id": "a3",
     "name": "Celestial Guardians",
-    "isPromo": false,
     "packs": [
       {
         "id": "a3-lunala",
@@ -101,7 +94,6 @@
   {
     "id": "a3a",
     "name": "Extradimensional Crisis",
-    "isPromo": false,
     "packs": [
       {
         "id": "a3a-booster",
@@ -113,7 +105,6 @@
   {
     "id": "a3b",
     "name": "Eevee Grove",
-    "isPromo": false,
     "packs": [
       {
         "id": "a3b-booster",
@@ -125,7 +116,6 @@
   {
     "id": "a4",
     "name": "Wisdom of Sea and Sky",
-    "isPromo": false,
     "packs": [
       {
         "id": "a4-ho-oh",
@@ -142,7 +132,6 @@
   {
     "id": "a4a",
     "name": "Secluded Springs",
-    "isPromo": false,
     "packs": [
       {
         "id": "a4a-booster",
@@ -154,7 +143,6 @@
   {
     "id": "a4b",
     "name": "Deluxe Pack: ex",
-    "isPromo": true,
     "packs": [
       {
         "id": "a4b-booster",
@@ -166,7 +154,6 @@
   {
     "id": "b1",
     "name": "Mega Rising",
-    "isPromo": false,
     "packs": [
       {
         "id": "b1-megaaltaria",
@@ -188,7 +175,6 @@
   {
     "id": "pb",
     "name": "Promo-B",
-    "isPromo": true,
     "packs": [
       {
         "id": "pb-logo",
