@@ -10,24 +10,29 @@ import io
 EXPANSIONS_JSON_PATH = os.path.join(
     os.path.dirname(os.path.dirname(__file__)), "expansions.json")
 IMAGES_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "images")
+PACKS_DIR = os.path.join(IMAGES_DIR, "packs")
 GITHUB_BASE_URL = "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images"
 TEST_LIMIT = 100  # Only process first 3 packs for testing
 
 
 def ensure_images_directory():
-    """Create images directory if it doesn't exist."""
+    """Create images directory and packs subdirectory if they don't exist."""
     os.makedirs(IMAGES_DIR, exist_ok=True)
+    os.makedirs(PACKS_DIR, exist_ok=True)
 
 
 def image_exists(pack_id):
-    """Check if image file already exists in images directory."""
-    image_path = os.path.join(IMAGES_DIR, f"{pack_id}.png")
+    """Check if image file already exists in packs directory."""
+    image_path = os.path.join(PACKS_DIR, f"{pack_id}.png")
     return os.path.exists(image_path)
 
 
 def is_github_url(image_url):
-    """Check if image URL is already in GitHub format."""
-    return image_url.startswith(GITHUB_BASE_URL)
+    """Check if image URL is already in GitHub format with packs subdirectory."""
+    if not image_url.startswith(GITHUB_BASE_URL):
+        return False
+    # Check if URL already has packs subdirectory
+    return "/packs/" in image_url
 
 
 def download_and_convert_image(image_url, pack_id):
@@ -50,8 +55,8 @@ def download_and_convert_image(image_url, pack_id):
         if img.mode != 'RGBA':
             img = img.convert('RGBA')
 
-        # Save as PNG
-        output_path = os.path.join(IMAGES_DIR, f"{pack_id}.png")
+        # Save to packs directory
+        output_path = os.path.join(PACKS_DIR, f"{pack_id}.png")
         img.save(output_path, 'PNG')
         print(f"  ✅ Saved image to: {output_path}")
 
@@ -62,9 +67,9 @@ def download_and_convert_image(image_url, pack_id):
 
 
 def update_image_url(pack):
-    """Update pack's image URL to GitHub format."""
+    """Update pack's image URL to GitHub format with packs subdirectory."""
     pack_id = pack["id"]
-    new_url = f"{GITHUB_BASE_URL}/{pack_id}.png"
+    new_url = f"{GITHUB_BASE_URL}/packs/{pack_id}.png"
     pack["image"] = new_url
     return new_url
 

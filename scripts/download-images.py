@@ -10,24 +10,29 @@ import io
 V4_JSON_PATH = os.path.join(os.path.dirname(
     os.path.dirname(__file__)), "v4.json")
 IMAGES_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "images")
+CARDS_DIR = os.path.join(IMAGES_DIR, "cards")
 GITHUB_BASE_URL = "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images"
 TEST_LIMIT = 1_000_000_000  # Only process first 3 cards for testing
 
 
 def ensure_images_directory():
-    """Create images directory if it doesn't exist."""
+    """Create images directory and cards subdirectory if they don't exist."""
     os.makedirs(IMAGES_DIR, exist_ok=True)
+    os.makedirs(CARDS_DIR, exist_ok=True)
 
 
 def image_exists(card_id):
-    """Check if image file already exists in images directory."""
-    image_path = os.path.join(IMAGES_DIR, f"{card_id}.png")
+    """Check if image file already exists in cards directory."""
+    image_path = os.path.join(CARDS_DIR, f"{card_id}.png")
     return os.path.exists(image_path)
 
 
 def is_github_url(image_url):
-    """Check if image URL is already in GitHub format."""
-    return image_url.startswith(GITHUB_BASE_URL)
+    """Check if image URL is already in GitHub format with cards subdirectory."""
+    if not image_url.startswith(GITHUB_BASE_URL):
+        return False
+    # Check if URL already has cards subdirectory
+    return "/cards/" in image_url
 
 
 def download_and_convert_image(image_url, card_id):
@@ -50,8 +55,8 @@ def download_and_convert_image(image_url, card_id):
         if img.mode != 'RGBA':
             img = img.convert('RGBA')
 
-        # Save as PNG
-        output_path = os.path.join(IMAGES_DIR, f"{card_id}.png")
+        # Save to cards directory
+        output_path = os.path.join(CARDS_DIR, f"{card_id}.png")
         img.save(output_path, 'PNG')
         print(f"  ✅ Saved image to: {output_path}")
 
@@ -62,9 +67,9 @@ def download_and_convert_image(image_url, card_id):
 
 
 def update_image_url(card):
-    """Update card's image URL to GitHub format."""
+    """Update card's image URL to GitHub format with cards subdirectory."""
     card_id = card["id"]
-    new_url = f"{GITHUB_BASE_URL}/{card_id}.png"
+    new_url = f"{GITHUB_BASE_URL}/cards/{card_id}.png"
     card["image"] = new_url
     return new_url
 
