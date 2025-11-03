@@ -93,6 +93,11 @@
         "id": "a3-lunala",
         "name": "Lunala",
         "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a3-lunala.png"
+      },
+      {
+        "id": "a3-solgaleo",
+        "name": "Solgaleo",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a3-solgaleo.png"
       }
     ]
   },
