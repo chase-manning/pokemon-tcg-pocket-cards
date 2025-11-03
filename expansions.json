@@ -1,0 +1,180 @@
+[
+  {
+    "id": "a1",
+    "name": "Genetic Apex",
+    "packs": [
+      {
+        "id": "a1-pikachu",
+        "name": "Pikachu",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a1-pikachu.png"
+      },
+      {
+        "id": "a1-mewtwo",
+        "name": "Mewtwo",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a1-mewtwo.png"
+      },
+      {
+        "id": "a1-charizard",
+        "name": "Charizard",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a1-charizard.png"
+      }
+    ]
+  },
+  {
+    "id": "a1a",
+    "name": "Mythical Island",
+    "packs": [
+      {
+        "id": "a1a-mew",
+        "name": "Mew",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a1a-mew.png"
+      }
+    ]
+  },
+  {
+    "id": "promo",
+    "name": "Promo",
+    "packs": [
+      {
+        "id": "promo-a",
+        "name": "Promo A",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/promo-a.png"
+      },
+      {
+        "id": "promo-b",
+        "name": "Promo B",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/promo-b.png"
+      }
+    ]
+  },
+  {
+    "id": "a2",
+    "name": "Space-Time Smackdown",
+    "packs": [
+      {
+        "id": "a2-dialga",
+        "name": "Dialga",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a2-dialga.png"
+      },
+      {
+        "id": "a2-palkia",
+        "name": "Palkia",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a2-palkia.png"
+      }
+    ]
+  },
+  {
+    "id": "a2a",
+    "name": "Triumphant Light",
+    "packs": [
+      {
+        "id": "a2a-arceus",
+        "name": "Arceus",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a2a-arceus.png"
+      }
+    ]
+  },
+  {
+    "id": "a2b",
+    "name": "Shining Revelry",
+    "packs": [
+      {
+        "id": "a2b-booster",
+        "name": "Booster",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a2b-booster.png"
+      }
+    ]
+  },
+  {
+    "id": "a3",
+    "name": "Celestial Guardians",
+    "packs": [
+      {
+        "id": "a3-lunala",
+        "name": "Lunala",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a3-lunala.png"
+      }
+    ]
+  },
+  {
+    "id": "a3a",
+    "name": "Extradimensional Crisis",
+    "packs": [
+      {
+        "id": "a3a-booster",
+        "name": "Booster",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a3a-booster.png"
+      }
+    ]
+  },
+  {
+    "id": "a3b",
+    "name": "Eevee Grove",
+    "packs": [
+      {
+        "id": "a3b-booster",
+        "name": "Booster",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a3b-booster.png"
+      }
+    ]
+  },
+  {
+    "id": "a4",
+    "name": "Wisdom of Sea and Sky",
+    "packs": [
+      {
+        "id": "a4-ho-oh",
+        "name": "Ho-Oh",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a4-ho-oh.png"
+      },
+      {
+        "id": "a4-lugia",
+        "name": "Lugia",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a4-lugia.png"
+      }
+    ]
+  },
+  {
+    "id": "a4a",
+    "name": "Secluded Springs",
+    "packs": [
+      {
+        "id": "a4a-booster",
+        "name": "Booster",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a4a-booster.png"
+      }
+    ]
+  },
+  {
+    "id": "a4b",
+    "name": "Deluxe Pack: ex",
+    "packs": [
+      {
+        "id": "a4b-booster",
+        "name": "Booster",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/a4b-booster.png"
+      }
+    ]
+  },
+  {
+    "id": "b1",
+    "name": "Mega Rising",
+    "packs": [
+      {
+        "id": "b1-megaaltaria",
+        "name": "Mega Altaria",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/b1-megaaltaria.png"
+      },
+      {
+        "id": "b1-megablaziken",
+        "name": "Mega Blaziken",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/b1-megablaziken.png"
+      },
+      {
+        "id": "b1-megagyarados",
+        "name": "Mega Gyarados",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/b1-megagyarados.png"
+      }
+    ]
+  }
+]
