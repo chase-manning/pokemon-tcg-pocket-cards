@@ -33,6 +33,7 @@ series_map = {
     "a4b": {"endpoint": "A4b", "PacksNumber": 1},
     "b1": {"endpoint": "B1", "PacksNumber": 3},
     "pb": {"endpoint": "P-B", "PacksNumber": 3},
+    "b1a": {"endpoint": "B1a", "PacksNumber": 1},
 }
 
 
