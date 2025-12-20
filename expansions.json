@@ -181,5 +181,16 @@
         "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/b1-megagyarados.png"
       }
     ]
+  },
+  {
+    "id": "b1a",
+    "name": "Crimson Blaze",
+    "packs": [
+      {
+        "id": "b1a-booster",
+        "name": "Booster",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/b1a-booster.jpg"
+      }
+    ]
   }
 ]
