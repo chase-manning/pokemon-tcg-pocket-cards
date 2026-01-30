@@ -192,5 +192,16 @@
         "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/b1a-booster.jpg"
       }
     ]
+  },
+  {
+    "id": "b2",
+    "name": "Fantastical Parade",
+    "packs": [
+      {
+        "id": "b2-booster",
+        "name": "Booster",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/b2-booster.jpg"
+      }
+    ]
   }
 ]
