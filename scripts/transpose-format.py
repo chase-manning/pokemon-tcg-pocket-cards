@@ -29,6 +29,7 @@ set_mapping = {
     "Promo-B": "pb",
     "Crimson Blaze  (B1a)": "b1a",
     "Fantastical Parade  (B2)": "b2",
+    "Paldean Wonders  (B2a)": "b2a",
 }
 
 series_map = {
@@ -48,6 +49,7 @@ series_map = {
     "pb": {"endpoint": "P-B", "PacksNumber": 3},
     "b1a": {"endpoint": "B1a", "PacksNumber": 1},
     "b2": {"endpoint": "B2", "PacksNumber": 1},
+    "b2a": {"endpoint": "B2a", "PacksNumber": 1},
 }
 
 

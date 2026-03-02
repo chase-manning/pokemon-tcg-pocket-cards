@@ -203,5 +203,16 @@
         "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/b2-booster.jpg"
       }
     ]
+  },
+  {
+    "id": "b2a",
+    "name": "Paldean Wonders",
+    "packs": [
+      {
+        "id": "b2a-booster",
+        "name": "Booster",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/b2a-booster.jpg"
+      }
+    ]
   }
 ]
