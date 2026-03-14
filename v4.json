@@ -34894,5 +34894,101 @@
     "ex": "No",
     "artist": "Toyste Beach",
     "type": "Trainer"
+  },
+  {
+    "id": "pb-033",
+    "name": "Quaxly",
+    "rarity": "☆",
+    "pack": "Shared(Promo-B)",
+    "health": "60",
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/cards/pb-033.png",
+    "fullart": "Yes",
+    "ex": "No",
+    "artist": "buchi",
+    "type": "Water"
+  },
+  {
+    "id": "pb-034",
+    "name": "Smoliv",
+    "rarity": "◊",
+    "pack": "Shared(Promo-B)",
+    "health": "60",
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/cards/pb-034.png",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Shibuzoh.",
+    "type": "Grass"
+  },
+  {
+    "id": "pb-035",
+    "name": "Charcadet",
+    "rarity": "☆",
+    "pack": "Shared(Promo-B)",
+    "health": "60",
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/cards/pb-035.png",
+    "fullart": "Yes",
+    "ex": "No",
+    "artist": "Oswaldo KATO",
+    "type": "Fire"
+  },
+  {
+    "id": "pb-036",
+    "name": "Tatsugiri",
+    "rarity": "◊",
+    "pack": "Shared(Promo-B)",
+    "health": "70",
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/cards/pb-036.png",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Shibuzoh.",
+    "type": "Water"
+  },
+  {
+    "id": "pb-037",
+    "name": "Frigibax",
+    "rarity": "◊",
+    "pack": "Shared(Promo-B)",
+    "health": "60",
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/cards/pb-037.png",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Akira Komayama",
+    "type": "Water"
+  },
+  {
+    "id": "pb-038",
+    "name": "Tinkaton",
+    "rarity": "◊◊◊",
+    "pack": "Shared(Promo-B)",
+    "health": "150",
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/cards/pb-038.png",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "DOM",
+    "type": "Metal"
+  },
+  {
+    "id": "pb-039",
+    "name": "Pawmi",
+    "rarity": "◊◊◊",
+    "pack": "Shared(Promo-B)",
+    "health": "60",
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/cards/pb-039.png",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "sowsow",
+    "type": "Lightning"
+  },
+  {
+    "id": "pb-040",
+    "name": "Paldean Clodsire",
+    "rarity": "◊◊◊",
+    "pack": "Shared(Promo-B)",
+    "health": "120",
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/cards/pb-040.png",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Kouki Saitou",
+    "type": "Darkness"
   }
 ]
