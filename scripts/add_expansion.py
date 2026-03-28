@@ -335,6 +335,11 @@ def download_images(cards):
 # ---------------------------------------------------------------------------
 
 
+def slugify(name):
+    """Convert a name to a filesystem-safe slug (lowercase, alphanumeric only)."""
+    return re.sub(r"[^a-z0-9]", "", name.lower())
+
+
 def serebii_slug(name):
     """Convert a name to a serebii URL slug (lowercase, keep hyphens only)."""
     return re.sub(r"[^a-z0-9-]", "", name.lower())
@@ -431,7 +436,7 @@ def update_expansions(set_code, expansion_name, cards):
     else:
         packs = []
         for pack_name in unique_packs:
-            slug = pack_name.lower().replace(" ", "")
+            slug = slugify(pack_name)
             packs.append(
                 {
                     "id": f"{prefix}-{slug}",
