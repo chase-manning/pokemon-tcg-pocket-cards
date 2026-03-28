@@ -41,19 +41,6 @@ EXPANSIONS_JSON_PATH = os.path.join(ROOT_DIR, "expansions.json")
 CARDS_DIR = os.path.join(ROOT_DIR, "images", "cards")
 PACKS_DIR = os.path.join(ROOT_DIR, "images", "packs")
 
-TYPE_MAPPING = {
-    "G": "Grass",
-    "R": "Fire",
-    "W": "Water",
-    "L": "Lightning",
-    "P": "Psychic",
-    "F": "Fighting",
-    "D": "Darkness",
-    "M": "Metal",
-    "Y": "Fairy",
-    "C": "Colorless",
-}
-
 FULLART_RARITIES = ["☆", "☆☆", "☆☆☆", "Crown Rare"]
 MAX_CONSECUTIVE_ERRORS = 5
 
@@ -201,8 +188,10 @@ def scrape_cards(set_code):
     """Scrape all cards in a set, stopping after consecutive 404s."""
     cards = []
     errors = 0
+    i = 0
 
-    for i in range(1, 600):
+    while True:
+        i += 1
         url = f"{BASE_URL}{set_code}/{i}"
         try:
             soup = fetch_page(url)
@@ -294,6 +283,7 @@ def download_images(cards):
     os.makedirs(CARDS_DIR, exist_ok=True)
     downloaded = 0
     skipped = 0
+    failed = 0
 
     for card in cards:
         card_id = card["id"]
@@ -306,29 +296,37 @@ def download_images(cards):
             skipped += 1
             continue
 
-        if "limitlesstcg" in source_url:
-            try:
-                time.sleep(random.uniform(0.1, 0.4))
-                response = requests.get(source_url, timeout=30)
-                response.raise_for_status()
-                img = Image.open(io.BytesIO(response.content))
-                if img.mode != "RGBA":
-                    img = img.convert("RGBA")
-                img.save(output_path, "PNG")
-                downloaded += 1
-                if downloaded % 10 == 0:
-                    print(f"    ...downloaded {downloaded} images")
-            except Exception as e:
-                print(f"    Failed to download {card_id}: {e}")
+        if "limitlesstcg" not in source_url:
+            continue
 
-        card["image"] = github_url
+        try:
+            time.sleep(random.uniform(0.1, 0.4))
+            response = requests.get(source_url, timeout=30)
+            response.raise_for_status()
+            img = Image.open(io.BytesIO(response.content))
+            if img.mode != "RGBA":
+                img = img.convert("RGBA")
+            img.save(output_path, "PNG")
+            card["image"] = github_url
+            downloaded += 1
+            if downloaded % 10 == 0:
+                print(f"    ...downloaded {downloaded} images")
+        except Exception as e:
+            print(f"    Failed to download {card_id}: {e}")
+            failed += 1
 
-    print(f"    Downloaded {downloaded}, skipped {skipped} existing")
+    print(f"    Downloaded {downloaded}, skipped {skipped} existing"
+          + (f", {failed} failed" if failed else ""))
 
 
 # ---------------------------------------------------------------------------
 # Step 5: Download pack images from serebii.net
 # ---------------------------------------------------------------------------
+
+
+def slugify(name):
+    """Convert a name to a filesystem-safe slug (lowercase, alphanumeric only)."""
+    return re.sub(r"[^a-z0-9]", "", name.lower())
 
 
 def serebii_slug(name):
@@ -344,8 +342,14 @@ def download_pack_images(expansion_name, packs):
         pack_id = pack["id"]
         output_path = os.path.join(PACKS_DIR, f"{pack_id}.png")
 
-        if os.path.exists(output_path):
-            print(f"    Pack image already exists: {pack_id}")
+        existing = False
+        for ext in ("png", "jpg", "jpeg"):
+            candidate_path = os.path.join(PACKS_DIR, f"{pack_id}.{ext}")
+            if os.path.exists(candidate_path):
+                print(f"    Pack image already exists: {pack_id} ({ext})")
+                existing = True
+                break
+        if existing:
             continue
 
         pack_slug = serebii_slug(pack["name"])
@@ -421,7 +425,7 @@ def update_expansions(set_code, expansion_name, cards):
     else:
         packs = []
         for pack_name in unique_packs:
-            slug = pack_name.lower().replace(" ", "")
+            slug = slugify(pack_name)
             packs.append(
                 {
                     "id": f"{prefix}-{slug}",
