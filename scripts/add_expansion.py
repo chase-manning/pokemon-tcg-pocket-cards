@@ -201,8 +201,10 @@ def scrape_cards(set_code):
     """Scrape all cards in a set, stopping after consecutive 404s."""
     cards = []
     errors = 0
+    i = 0
 
-    for i in range(1, 600):
+    while True:
+        i += 1
         url = f"{BASE_URL}{set_code}/{i}"
         try:
             soup = fetch_page(url)
