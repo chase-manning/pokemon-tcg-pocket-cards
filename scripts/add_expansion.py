@@ -294,6 +294,7 @@ def download_images(cards):
     os.makedirs(CARDS_DIR, exist_ok=True)
     downloaded = 0
     skipped = 0
+    failed = 0
 
     for card in cards:
         card_id = card["id"]
@@ -306,24 +307,27 @@ def download_images(cards):
             skipped += 1
             continue
 
-        if "limitlesstcg" in source_url:
-            try:
-                time.sleep(random.uniform(0.1, 0.4))
-                response = requests.get(source_url, timeout=30)
-                response.raise_for_status()
-                img = Image.open(io.BytesIO(response.content))
-                if img.mode != "RGBA":
-                    img = img.convert("RGBA")
-                img.save(output_path, "PNG")
-                downloaded += 1
-                if downloaded % 10 == 0:
-                    print(f"    ...downloaded {downloaded} images")
-            except Exception as e:
-                print(f"    Failed to download {card_id}: {e}")
+        if "limitlesstcg" not in source_url:
+            continue
 
-        card["image"] = github_url
+        try:
+            time.sleep(random.uniform(0.1, 0.4))
+            response = requests.get(source_url, timeout=30)
+            response.raise_for_status()
+            img = Image.open(io.BytesIO(response.content))
+            if img.mode != "RGBA":
+                img = img.convert("RGBA")
+            img.save(output_path, "PNG")
+            card["image"] = github_url
+            downloaded += 1
+            if downloaded % 10 == 0:
+                print(f"    ...downloaded {downloaded} images")
+        except Exception as e:
+            print(f"    Failed to download {card_id}: {e}")
+            failed += 1
 
-    print(f"    Downloaded {downloaded}, skipped {skipped} existing")
+    print(f"    Downloaded {downloaded}, skipped {skipped} existing"
+          + (f", {failed} failed" if failed else ""))
 
 
 # ---------------------------------------------------------------------------
