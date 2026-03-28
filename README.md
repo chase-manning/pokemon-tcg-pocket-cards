@@ -1,6 +1,6 @@
 # Pokemon TCG Pocket Cards
 
-An open source repo for data on the Pokemon TCG Cards.
+An open source repo for data on the Pokemon TCG Pocket cards.
 Useful for building Pokemon TCG Pocket tools such as websites.
 Feel free to use the data however you like.
 
@@ -15,9 +15,46 @@ If there's anything missing or wrong, feel free to raise a PR.
 
 ## Data Source
 
-The source data is from [Limitless TCG](https://pocket.limitlesstcg.com/cards).
-The source data is downloaded using [Pokémon TCG Pocket Web Scraper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper).
-And then transposed using `scripts/transpose-format.js`.
+Card data is scraped from [Limitless TCG](https://pocket.limitlesstcg.com/cards).
+
+## Adding a New Expansion
+
+When a new expansion is released, run a single command to scrape all card data, download images, and update the database:
+
+```bash
+pip install -r requirements.txt
+python3 scripts/add_expansion.py <SET_CODE>
+```
+
+For example:
+
+```bash
+python3 scripts/add_expansion.py B2b
+```
+
+The script will automatically:
+
+1. Detect the expansion name from Limitless TCG
+2. Scrape all cards in the set
+3. Download card and pack images
+4. Append new cards to `v4.json`
+5. Add the expansion to `expansions.json`
+
+### Updating Promo Sets
+
+Promo sets (P-A, P-B) add cards over time rather than all at once. Run the same command to pick up any new cards:
+
+```bash
+python3 scripts/add_expansion.py PA
+python3 scripts/add_expansion.py PB
+```
+
+The script will scrape all cards in the promo set and only add ones not already in the database.
+
+### Options
+
+- `--name "Custom Name"` to override the auto-detected expansion name
+- `--skip-images` to skip downloading images
 
 ## Projects Using This API
 
