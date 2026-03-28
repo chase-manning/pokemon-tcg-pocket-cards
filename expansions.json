@@ -214,5 +214,16 @@
         "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/b2a-booster.jpg"
       }
     ]
+  },
+  {
+    "id": "b2b",
+    "name": "Mega Shine",
+    "packs": [
+      {
+        "id": "b2b-booster",
+        "name": "Booster",
+        "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/packs/b2b-booster.png"
+      }
+    ]
   }
 ]
