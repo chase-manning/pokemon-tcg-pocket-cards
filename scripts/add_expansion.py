@@ -348,8 +348,14 @@ def download_pack_images(expansion_name, packs):
         pack_id = pack["id"]
         output_path = os.path.join(PACKS_DIR, f"{pack_id}.png")
 
-        if os.path.exists(output_path):
-            print(f"    Pack image already exists: {pack_id}")
+        existing = False
+        for ext in ("png", "jpg", "jpeg"):
+            candidate_path = os.path.join(PACKS_DIR, f"{pack_id}.{ext}")
+            if os.path.exists(candidate_path):
+                print(f"    Pack image already exists: {pack_id} ({ext})")
+                existing = True
+                break
+        if existing:
             continue
 
         pack_slug = serebii_slug(pack["name"])
