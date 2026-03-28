@@ -41,19 +41,6 @@ EXPANSIONS_JSON_PATH = os.path.join(ROOT_DIR, "expansions.json")
 CARDS_DIR = os.path.join(ROOT_DIR, "images", "cards")
 PACKS_DIR = os.path.join(ROOT_DIR, "images", "packs")
 
-TYPE_MAPPING = {
-    "G": "Grass",
-    "R": "Fire",
-    "W": "Water",
-    "L": "Lightning",
-    "P": "Psychic",
-    "F": "Fighting",
-    "D": "Darkness",
-    "M": "Metal",
-    "Y": "Fairy",
-    "C": "Colorless",
-}
-
 FULLART_RARITIES = ["☆", "☆☆", "☆☆☆", "Crown Rare"]
 MAX_CONSECUTIVE_ERRORS = 5
 
