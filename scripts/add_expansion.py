@@ -234,7 +234,7 @@ def transform_cards(raw_cards, set_code, expansion_name):
         rarity = card["rarity"]
         if rarity == "Crown Rare":
             rarity = "♕"
-        if is_pa:
+        if is_promo:
             rarity = "Promo"
 
         pack = card["pack"]
