@@ -36394,5 +36394,101 @@
     "ex": "No",
     "artist": "Studio Bora Inc.",
     "type": "Trainer"
+  },
+  {
+    "id": "pb-041",
+    "name": "Chien-Pao ex",
+    "rarity": "",
+    "pack": "Shared(Promo-B)",
+    "health": "130",
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/cards/pb-041.png",
+    "fullart": "No",
+    "ex": "Yes",
+    "artist": "aky CG Works",
+    "type": "Water"
+  },
+  {
+    "id": "pb-042",
+    "name": "Slowpoke",
+    "rarity": "",
+    "pack": "Shared(Promo-B)",
+    "health": "70",
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/cards/pb-042.png",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Yoshimi Miyoshi",
+    "type": "Water"
+  },
+  {
+    "id": "pb-043",
+    "name": "Electrike",
+    "rarity": "",
+    "pack": "Shared(Promo-B)",
+    "health": "60",
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/cards/pb-043.png",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Miki Tanaka",
+    "type": "Lightning"
+  },
+  {
+    "id": "pb-044",
+    "name": "Varoom",
+    "rarity": "",
+    "pack": "Shared(Promo-B)",
+    "health": "60",
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/cards/pb-044.png",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Kouki Saitou",
+    "type": "Metal"
+  },
+  {
+    "id": "pb-045",
+    "name": "Haxorus",
+    "rarity": "",
+    "pack": "Shared(Promo-B)",
+    "health": "150",
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/cards/pb-045.png",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Uta",
+    "type": "Dragon"
+  },
+  {
+    "id": "pb-046",
+    "name": "Chatot",
+    "rarity": "",
+    "pack": "Shared(Promo-B)",
+    "health": "70",
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/cards/pb-046.png",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "0313",
+    "type": "Colorless"
+  },
+  {
+    "id": "pb-047",
+    "name": "Gastly",
+    "rarity": "",
+    "pack": "Shared(Promo-B)",
+    "health": "60",
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/cards/pb-047.png",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "kodama",
+    "type": "Darkness"
+  },
+  {
+    "id": "pb-048",
+    "name": "Wigglytuff",
+    "rarity": "",
+    "pack": "Shared(Promo-B)",
+    "health": "110",
+    "image": "https://raw.githubusercontent.com/chase-manning/pokemon-tcg-pocket-cards/refs/heads/main/images/cards/pb-048.png",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Mizue",
+    "type": "Colorless"
   }
 ]
